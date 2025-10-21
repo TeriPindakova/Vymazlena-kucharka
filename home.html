@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Naše kuchařka</title>
+        <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/modern-normalize@2.0.0/modern-normalize.min.css">
+        <link rel="stylesheet" href="style.css">
+        <script src="js/main.js" defer></script>
+
+    </head>
+
+    <body>
+        <header>
+            <div class="contact">
+
+                <a href="https://www.facebook.com/kucharkaprodceru" target="_blank" ><img src="images/fblogo.png" alt="facebook Kuchařky pro dceru" title="Hledej inspiraci"></a>
+                <a href="https://www.instagram.com/margot_fait_maison?igsh=MWNsaWxhcnJyOWdj" target="_blank"><img src="images/instalogo.png" alt="instagram" title="Hledej inspiraci"></a>
+                <a href="https://www.youtube.com/watch?v=8-lFpIRNe_g" target="_blank" ><img src="images/YTlogo.png" alt="youtube" title="Hledej inspiraci"></a>
+            </div>
+
+            <h1>VYMAZLENÁ KUCHAŘKA</h1>
+            <nav>
+                <ul>
+                    <li><a href="home.html">Domů</a></li>
+                    <li><a href="recepty.html">Recepty</a></li>
+                    <li><a href="pridani_receptu.html">Přidání receptů</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main class="home">
+            <section class="question">
+                <h2>Na co máš dneska chuť?</h2>
+                <p>Vyber si</p>
+            </section>
+
+            <section class="home-filters">
+                <div class="filters">
+
+                    <div class="custom-select" data-name="meat">
+                        <div class="selected">Maso</div>
+                        <ul class="options">
+                            <li data-value="hovězí">Hovězí</li>
+                            <li data-value="králičí">Králičí</li> 
+                            <li data-value="krutí">Krutí</li>
+                            <li data-value="kuřecí">Kuřecí</li>
+                            <li data-value="vepřové">Vepřové</li>
+                            <li data-value="rybí">Rybí</li>
+                            <li data-value="bezmasé">Bezmasé</li>
+                        </ul>
+                    </div>
+
+                    <div class="custom-select" data-name="side">
+                        <div class="selected">Přílohu</div>
+                        <ul class="options">
+                            
+                            <li data-value="brambory">Brambory</li>
+                            <li data-value="chleba">Chleba</li>
+                            <li data-value="knedlík">Knedlík</li>
+                            <li data-value="luštěniny">Luštěniny</li>
+                            <li data-value="rýže">Rýže</li>
+                            <li data-value="těstoviny">Těstoviny</li>
+                            <li data-value="zelenina">Zelenina</li>
+                            <li data-value="salat">Salát</li>
+                            
+                        </ul>
+                    </div>
+
+                    <div class="custom-select" data-name="cuisine">
+                        <div class="selected">Kuchyni</div>
+                        <ul class="options">
+                            <li data-value="americká">Americká</li>
+                            <li data-value="asijská">Asijská</li>
+                            <li data-value="česká">Česká</li>
+                            <li data-value="italská">Italská</li>
+                            <li data-value="irská">Irská</li>
+                            <li data-value="maďarská">Maďarská</li>
+                            <li data-value="mexická">Mexická</li>
+                            <li data-value="polská">Polská</li>
+                            <li data-value="severská">Severská</li>
+                            
+                        </ul>
+                    </div>
+
+                    <div class="custom-select" data-name="spicy">
+                        <div class="selected">Pálivost</div>
+                        <ul class="options">
+                            <li data-value="nepálivé">Nepálivé</li>
+                            <li data-value="pikantní">Pikantní</li>
+                            <li data-value="shoř">Shoř</li>
+                        </ul>
+                    </div>
+
+
+                    <div class="custom-select" data-name="other">
+                        <div class="selected">Jiné</div>
+                        <ul class="options">
+                            <li data-value="polévka">Polévky</li> 
+                            <li data-value="pomazánky">Pomazánky</li>
+                            <li data-value="zavařování">Zavařování</li>
+                            <li data-value="nápoje">Nápoje</li>                          
+                        </ul>
+                    </div>
+
+                    <div class="custom-select" data-name="bake">
+                        <div class="selected">Pečení</div>
+                        <ul class="options">
+                            <li data-value="sladké">Bábovky, buchty, koláče atd.</li>
+                            <li data-value="cukroví">Cukroví</li>
+                            <li data-value="dort">Dorty</li>
+                            <li data-value="pečivo">Chleba a pečivo</li>
+                            <li data-value="kynuté">Kynuté těsta</li>
+                            <li data-value="zákusky">Zákusky</li>
+                            
+                        </ul>
+                    </div>
+                </div>
+                
+            </section>
+
+            <section>
+                <input 
+  type="text" 
+  id="global-search" 
+  placeholder="🔍 Vyhledat recept..." 
+  class="global-search"
+/>
+</section>
+<div class="photos-wrapper">
+  <button class="arrow left">◀</button>
+            <section class="photos-strip">
+                
+                <img src="images/2.jpg" alt="Ramen" onclick="window.location.href='recepty.html?id=4'">
+                <img src="images/4.jpg" alt="Mascarpone s ovocem a Cointreau" onclick="window.location.href='recepty.html?id=6'">
+                <img src="images/6.jpg" alt="Hovězí burger - mňangosam" onclick="window.location.href='recepty.html?id=2'">
+                <img src="images/7.jpg" alt="Svíčková na smetaně s knedlíkem" onclick="window.location.href='recepty.html?id=8'">
+                <img src="images/5.jpg" alt="Čokoládový dort s ovocem a mandlemi" onclick="window.location.href='recepty.html?id=7'">
+                <img src="images/3.jpg" alt="Asijská masová směs s rýží" onclick="window.location.href='recepty.html?id=5'">
+                <img src="images/1.jpg" alt="Švédské masové kuličky s kaší a brusinkami" onclick="window.location.href='recepty.html?id=3'">
+
+            </section>
+<button class="arrow right">▶</button>
+
+        </main>
+
+        <footer>
+            <p>&copy; 2025 teri_pindakova_design</p>
+        </footer>
+
+    </body>
+
+</html>

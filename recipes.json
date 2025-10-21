@@ -1,0 +1,2478 @@
+[
+    {
+        "id": 1,
+        "name": "Králík na divoko",
+        "meat": "králičí",
+        "side": "brambory",
+        "cuisine": "česká",
+        "spicy": "nepálivé",
+        "images": [
+            "images/kralik.jpg",
+            "images/zelenina.jpg",
+            "images/kralik-maso.jpg",
+            "images/brambory.jpg"
+        ],
+        "description": "Králík na divoko podle našich babiček.",
+        "ingredients": [
+            "2 králičí stehna",
+            "1 cibule",
+            "3 velké stroužky česneku",
+            "1 střední mrkev",
+            "celer",
+            "petržel",
+            "50g slanina",
+            "sůl a pepř",
+            "2x bobkový list",
+            "5x nové koření",
+            "5x celý černý pepř",
+            "200ml kuřecího nebo zeleninového vývaru",
+            "250g brambor"
+        ],
+        "instructions": [
+            "Králíka očistíme, rozdělíme na porce a osolíme.",
+            "Na sádle osmahneme nakrájenou slaninu, přidáme cibuli a česnek a restujeme do zlatova.",
+            "Přidáme králičí porce a opečeme ze všech stran dozlatova.",
+            "Přidáme nakrájenou mrkev na kolečka, petržel a celer, krátce orestujeme.",
+            "Podlijeme vývarem, přidáme bobkový list, nové koření a pepř.",
+            "Přikryjeme pokličkou a dusíme na mírném ohni asi 1,5 hodiny, dokud není králík měkký.",
+            "Králíka podáváme se s vařeným bramborem."
+        ],
+        "tips": [
+            "Pro intenzivnější chuť můžete přidat trochu červeného vína při dušení.",
+            "Nezapomeňte na čerstvé bylinky, které dodají pokrmu svěžest a aroma."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Hovězí burger mňangosam",
+        "meat": "hovězí",
+        "side": "brambory",
+        "cuisine": "americká",
+        "spicy": "shoř",
+        "images": [
+            "images/6.jpg"
+        ],
+        "description": "Hovězí hamburger s mangem a chalepeňos s hranolkami",
+        "ingredients": [
+            "500g mleté hovězí",
+            "1 malá červená cibule",
+            "salát",
+            "12ks jalapeňos",
+            "2 plátky slaniny",
+            "slaninéza",
+            "ostrý kečup",
+            "sůl a pepř",
+            "chedar",
+            "čerstvé mango",
+            "2 domácí bulky"
+        ],
+        "instructions": [
+            "Připravíme slaninézu. Na malé kousky si nakrájíme slaninu, a dáme ji smažit. Pokud je moc mastná, nepřidáváme olej. Jakmile je slanina napůl vyškvařená a vychlazená dáme ji do mixéru a spolu se čtvrtkou červené cibule nakrájené na malé kostičky a 2 lžícemi majonézy. Rozmixujeme a dochutíme solí a pepřem. Pokud je slanina moc mastná, hotovou slaninézu přepasíruj přes malé sítko. ",
+            "Připravíme a nakrájíme si přísady do burgeru - mango, jalapeňos, salát, červená cibule, chedar a osmažená slanina. ",
+            "Rozkrojíme si bulky a potřeme z obou stran máslem",
+            "Maso rozdělíme na 2 části a uděláme z něj placky.",
+            "Začneme dělat maso na pánvi s tukem. Z každé strany 3-5 minut podle tloušťky placky. Před koncem přidáme plátek chedaru na maso, nalijeme trochu vody do pánve a přikryjeme pokličkou dokud se sýr nezačne roztékat.",
+            "Na druhé pánvi si osmažíme bulky ze máslové strany.",
+            "Vše připravené složíme podle tohoto pořadí odspodu:"
+        ],
+        "tips": [
+            "1. bulka.",
+            "2. pálivý kečup",
+            "3. jalapeňos",
+            "4. salát",
+            "5. červená cibule",
+            "6. slanina",
+            "7. maso s chedarem",
+            "8. mango",
+            "9. slaninéza",
+            "10. bulka"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Švédské masové kuličky",
+        "meat": "hovězí",
+        "side": "brambory",
+        "cuisine": "severská",
+        "spicy": "pikantní",
+        "images": [
+            "images/1.jpg"
+        ],
+        "description": "Švédské masové kuličky s kaší a brusinkami ve smetanovo-hořčičné omáčce",
+        "ingredients": [
+            "250g mleté hovězí",
+            "hořčice",
+            "bílé víno",
+            "zelená cibulka",
+            "pažitka",
+            "brusinky",
+            "sůl a pepř a chilli vločky",
+            "hladká mouka",
+            "máslo",
+            "muškátový ořech",
+            "vývar",
+            "250g brambor"
+        ],
+        "instructions": [
+            "Maso posolíme, popepříme, přidáme chilli vločky a zelenou cibulku. Uděláme kuličky.",
+            "Dáme vařit brambory, posolené a pokmnínované",
+            "Začneme dělat omáčku, z másla a mouky uděláme světlou jíšku (zpěníš mouku v másle ale ne do zhnědnutí). Přidá se hořčice a bílé víno, které se nechá vypařit. Po častech se přilije vývar za stálého míchání. Osolíme, opepříme a přidáme muškátový ořech. 15 minut podusíme a přidáme smetanu. Za stálého míchání provařímedo zhoustnutí (měla by dosáhnout varu, ale neměla by dlouho bublat).",
+            "Maso dáme smažit do oleje, aby byly kuličky potopené. Smažíme asi 10-15min na 7-8 stupeň a poté dáme kuličky do trouby na 80°.",
+            "Uděláme kaši a přidáme pažitku.",
+            "Podáváme s brusinkami"
+        ],
+        "tips": [
+            "Nejlepší je masová kombinace vepřového a hovězího."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Ramen",
+        "meat": "vepřové",
+        "cuisine": "asijská",
+        "spicy": "pikantní",
+        "other": "polévka",
+        "images": [
+            "images/2.jpg"
+        ],
+        "description": "Teri Ramen na 4 porce",
+        "ingredients": [
+            "500g vepřový bůček a nebo krkovice",
+            "sádlo",
+            "300ml vývaru",
+            "2 cibule",
+            "malá mrkev",
+            "zázvor",
+            "sůl a pepř",
+            "celý černý pepř",
+            "celé nové koření",
+            "bílý a černý sezam",
+            "zelená cibulka",
+            "shiitake nebo jidášovo ucho",
+            "nori řasa",
+            "udon nudle nebo jiné asijské nudle",
+            "4 vejce",
+            "4 lžíce sojové omáčky Kikkoman",
+            "2 lžíce rybí omáčky red boat",
+            "2 lžíce ústřicové omáčky",
+            "3 kapky sezamového oleje",
+            "miso pasta"
+        ],
+        "instructions": [
+            "Na troše sádla nebo oleje zatáhneme maso a mírně orestujeme cibuli na měsíčky.",
+            "Zalijeme vývarem a vodou, nalijeme sojovku, rybí a ústřicovou omáčku a pár kapek sezamového oleje.",
+            "Přidáme 2 celé cibule, zázvor, mrkev nebo případně i pórek nebo petržel (zeleniny pomálu)",
+            "Přidáme koření a sůl a na mírném stupni, tak aby vývar probublával, vaříme 4 hodiny.",
+            "Mezitím si namočíme řasu a houby",
+            "Po 3,5 hodinách přidáme lžičku miso pasty a v poslendí půlhodině si připravíme zbytek.",
+            "Scedíme a nakrájíme řasu případně jidášovo ucho, které ještě pár minut povaříme zvlášť ve vroucí vodě.",
+            "Uvaříme si vajíčka na měkko (spíš tekuto až měkko) a dáme vařit asijské nudle",
+            "Když mám vše připraveno, scedím vývar, tak aby nám zbyl jen čistý vývar a maso si dáme bokem.",
+            "Na talíř dáme řasu, nudle, houby, maso, vajíčka a vše zalijeme vroucím vývarem",
+            "Ozdobíme jarní cibulkou, bílým a černým sezamem."
+        ],
+        "tips": [
+            "Itadakimasu!",
+            "Může být jak pikantní tak nepálivý a nebo klidně i shoř."
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Masová směs s rýží a ananasem",
+        "meat": "vepřové",
+        "side": "rýže",
+        "cuisine": "asijská",
+        "spicy": "shoř",
+        "images": [
+            "images/3.jpg"
+        ],
+        "description": "Masová směs s rýží, zeleninou a ananasem",
+        "ingredients": [
+            "220g vepřové nudličky",
+            "sádlo",
+            "100ml vývaru",
+            "0,5 cibule",
+            "zázvor",
+            "kousek pórku",
+            "sůl a pepř",
+            "chilli, kurkuma",
+            "ananas",
+            "šťáva z ananasu",
+            "černý sezam",
+            " 1/4 papriky",
+            "4 žampiony",
+            "rýže"
+        ],
+        "instructions": [
+            "Maso opepři, posol, přidej kurkumu a chilli a zakápni olivovým olejem.",
+            "Na sádle si osmahni cibuli, zázvor, žampion, papriku a pórek.",
+            "Poté odlož stranou a osmahni maso.",
+            "Pod maso přidej vývar a postupně přidávej šťávu z ananasu a po půl hodině i kousky ananasu.",
+            "Dej si vařit rýži",
+            "Ohřej si dříve připravenou zeleninu",
+            "Omáčku dosol a dopepři podle chuti.",
+            "Podávej rýži se sezamem, masovou směs a zeleninu, vše odděleně na talíři."
+        ],
+        "tips": [
+            "Nahoru nasypej zelenou cibulku."
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Mascarpone s ovocem a cointreau",
+        "images": [
+            "images/4.jpg"
+        ],
+        "description": "Mascarpone s ovocem a pomerančovým cointreau na 4 porce",
+        "bake": "zákusky",
+        "ingredients": [
+            "250g mascarpone",
+            "250ml 33% šlehačky",
+            "100g cukr krupice",
+            "citronová šťáva",
+            "cukrářské piškoty",
+            "cointreau",
+            "jahody",
+            "maliny",
+            "hořká čokoláda"
+        ],
+        "instructions": [
+            "Vyšleháme si krém z mascarpone, cukru, šlehačky a citrónu.",
+            "Piškoty si rozdělíme tak, aby se nám vlezly do nádoby.",
+            "Rychle je namočíme v mističce s cointreau, tak aby toho moc nenasákly.",
+            "Vyskládáme vrstvy piškot, krém, ovoce a hořká čokoláda opakovaně podle velikosti nádoby.",
+            "Nahoru ozdobíme čerstvým ovocem a nastrouhanou hořkou čokoládou.",
+            "Dáme odležet do lednice."
+        ],
+        "tips": [
+            "Použij ovoce podle své chuti.",
+            "Univerzální recept! Místo cointreau, malin a jahod použij co ti chutná např. Medový Jack Daniels a pomeranče.",
+            "Prostě si to namíchej, podle chutí které máš rád(a)."
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Čokoládový dort s mandlemi a pomeranči",
+        "images": [
+            "images/5.jpg"
+        ],
+        "description": "Dort s mandlemi a pomeranči zalitý hořkou čokoládou",
+        "bake": "dort",
+        "ingredients": [
+            "piškot - viz recept piškotový korpus",
+            "KRÉM:",
+            "2 velké pomeranče",
+            "šťáva ze 2 pomerančů",
+            "jack daniels medový",
+            "250g mascarpone",
+            "250ml 33% šlehačky",
+            "ztužovač šlehačky",
+            "POLEVA:",
+            "hořká čokoláda",
+            "lupínky mandlí"
+        ],
+        "instructions": [
+            "Uděláme si pištot - viz recept piškotový korpus. Podle výšky rozkrojíme horizontálně napůl nebo na 3 pláty.",
+            "Uděláme si krém. Vyšleháme mascarpone, přidáme šlehačku, šťávu z pomerančů a jacka danielse a ztužovač šlehačky-",
+            "Vymícháme krém a dáme ztuhnout do lednice/mrazáku, aby se nám dobře nanášel na upečený piškot.",
+            "Pomeranče si oloupeme ze slupek, tak že necháme jen dužinu v měsíčcích.",
+            "Skládáme piškot, na něj krém a do něj čerstvé pomeranče. Můžeme i dovnitř přidat nastrouhanou hořkou čokoládu. Opakujeme podle toho, kolik máme vrstev. Úplně nahoru dáme jen mascarpone - tenkou vrstvu.",
+            "V horké lázni si rozpustíme hořkou čokoládu a políváme dort ze všech stran. Nahoru můžeme ještě pro ozdobu dodat kousky hořké čokolády a lupínky mandlí.",
+            "Dáme do lednice chladit."
+            
+        ],
+        "tips": [
+            "Díky univerzálnímu krému jde kombinovat různé barvy piškotu a různé ovoce."
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Svíčková na smetaně",
+        "meat": "hovězí",
+        "side": "knedlík",
+        "cuisine": "česká",
+        "spicy": "nepálivé",
+        "images": [
+            "images/7.jpg"
+        ],
+        "description": "Svíčková na smetaně s domácím knedlíkem",
+        "ingredients": [
+            "800g hovězího zadního (kýta)",
+            "100g špeku",
+            "2-3 mrkve",
+            "0,5 středně velkého celeru",
+            "1-2 petržele",
+            "2 cibule",
+            "500 ml hovězího vývaru (než použít kostku, vezměte raději jen vodu)",
+            "2 lžíce sádla",
+            "2 lžíce másla",
+            "2-3 lžíce octa",
+            "3 lžíce cukru",
+            "1 lžíce hořčice",
+            "cca 5 kuliček černého pepře",
+            "cca 5 kuliček nového koření",
+            "bobkový list",
+            "0,5 citronu",
+            "25g másla",
+            "25g hladké mouky",
+            "200ml smetany na vaření nebo ke šlehání",
+            "sůl a pepř"
+        ],
+        "instructions": [
+            "Špek nakrájejte na špalíčky kolem 1 cm toušťky a 10 cm délky. Potřebujeme 9ks.",
+            "Z masa odřežte všechny viditelné povrchové blány a tuk. Maso jemně naklepeme a prošpikujeme po vlákně.",
+            "Maso osolíme, opepříme a můžeme svázat.",
+            "Očistíme si zeleninu a nakrájíme na kostičky.",
+            "V hrnci rozpustíme máslo a sádlo a zprudka opečeme maso dozlatova. Jakmile je hotové připravíme do pekáčku, který půjde do trouby.",
+            "Mrkev, celer a petržel osmažíme na výpeku z masa dokud nebude dozlata, až pak přidáme cibuli dokud taky nezezlátne. Následně zasypeme cukrem a necháme zhruba minutu zkaramelizovat.",
+            "Zalijeme to dále octem, počkáme až se vypaří a vmícháme hořčici a postupně podlíváme vývarem nebo vodou. Jakmile to vaří, dáme to do pekáčku k masu.",
+            "Pečeme na 180° v předehřáté troubě minimálně 2 hodiny zakryté alobalem. Nezapomínáme maso otáčet zhruba co 30 minut.",
+            "Jakmile je maso měkké, vyndáme ho z omáčky a necháme ve vychládající (cca 80-100°) troubě odpočívat.",
+            "Procedíme čistou šťávu od výpeku a zeleniny.",
+            "V pánvi roztopíme máslo, zasypeme moukou a mícháme dokud není pryč pěna a nevznikne světle hnědá jíška.",
+            "Po částech do tohoto naléváme šťávu a stále mícháme.",
+            "Zeleninu propasírujeme a 15 minut to vaříme v jíšce za občasného míchání.",
+            "Hotovou omáčku dosolíme, případně docukrujeme a přidáme citronovou šťávu.",
+            "Nakonec prohřejeme v omáčce smetanu, ale už nevaříme.",
+            "Podáváme s domácím knedlíkem, a masem nakrájeným na plátky, nahoře omáčky. (na které se ještě nahoru přidá kolečko citrónu a šlehačka). Nezapomínáme podávat s brusinkami."
+        ],
+        "tips": [
+            "Teri má ráda svíčkovou bez šlehačky a citrónu (kazí jí to chuť výborné omáčky). Na druhou stranu tam může mít klidně tunu brusinek."
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Nakládané kuřecí řízečky",
+        "meat": "kuřecí",
+        "side": "chleba",
+        "cuisine": "česká",
+        "spicy": "nepálivé",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Recept od Hanky",
+        "ingredients": [
+            "500g kuřecí maso",
+            "2 cibule",
+            "3 lžíce worchesterové omáčky",
+            "5 lžic sojovky",
+            "5 lžic oleje",
+            "1 vejce",
+            "sůl a pepř",
+            "paprika a kari",
+            "2 lžičky solamylu"
+        ],
+        "instructions": [
+            "Cibuli nakrájíme na plátky a maso na větší medailonky.",
+            "Smíchame se všemi ingrediencemi a dáme odležet do lednice - klidně až 24h.",
+            "Smažíme na pánvi na oleji.",
+            "Podáváme s čerstvým chlebem a tatarkou."
+        ],
+        "tips": [
+            "Nejlepší ze stehenních řízků nebo prsou."
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Kuřecí kousky s pomerančovou omáčkou a rýží",
+        "meat": "kuřecí",
+        "side": "rýže",
+        "cuisine": "asijská",
+        "spicy": "pikantní",
+        "images": [
+            "images/9.png"
+        ],
+        "description": "pomerančová asijská nomka",
+        "ingredients": [
+            "220g kuřecích prsou",
+            "40ml pomerančového džusu 100%",
+            "100g cukr",
+            "2 lžíce rýžového octu ",
+            "2 lžíce sojové omáčky",
+            "1/4 lžičky nastrouhaného zázvoru",
+            "1/2 lžičky chilli vloček",
+            "Pomerančová kůra",
+            "1 lžíce kukuřičného škrobu",
+            "1 vejce",
+            "3 stroužky česneku",
+            "rýže",
+            "zelená cibulka"
+        ],
+        "instructions": [
+            "kuřecí prsa nakrájíme na kousky a naložíme do sojovky, pomerančového džusu, soli, pepře a strouhaného česneku.",
+            "Do hrnce rozmícháme pomerančový džus, cukr, ocet, sojovku, zázvor, česnek a chilli vločky.",
+            "Přivedeme k varu na 10 min.",
+            "Zvlášť rozmícháme 1 lžíci kukuřičného škrobu s vodou a přilijeme do základu.",
+            "Povaříme do zhoustnutí a přecedíme přes sítko.",
+            "Maso zcedíme z marinády a obalíme po kouscích (jinak se slepí) v rozšlehaném vejci.",
+            "Dále obalíme v mouce se solí a kukuřičném škrobu a osmažíme 2x na oleji, okapeme a namočíme do pomerančové omáčky, promícháme a scedíme.",
+            "Podáváme s rýží ozdobené zelenou cibulkou."
+        ],
+        "tips": [
+            "Pro lepší chuť si na to vem hůlky."
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Čínské nudle",
+        "meat": [
+            "kuřecí",
+            "krutí"
+        ],
+        "cuisine": "asijská",
+        "spicy": [
+            "pikantní",
+            "shoř"
+        ],
+        "images": [
+            "images/.............png"
+        ],
+        "description": "Čínské nudle podle Šona",
+        "ingredients": [
+            "220g kuřecích prsou",
+            "slunečnicový olej",
+            "jidášovo ucho nebo hlíva",
+            "nudle",
+            "jedlá soda",
+            "sůl",
+            "0,5 cibule",
+            "1 mrkev",
+            "jarní cibulka nebo smažená cibulka",
+            "0,5 menšího čínského zelí"
+        ],
+        "instructions": [
+            "Namočíme zvlášť jidášovo ucho do horké vody a nudle do vlažné vody na 30-60minut.",
+            "Maso nakrájíme na nudličky, osolíme a jemně posypeme jedlou sodou. Zakápneme lžíci slunečnicového oleje. Promícháme a dáme na 30 min do lednice.",
+            "Nakrájíme si zeleninu (hlívu) a mrkev nastrouháme na jemné proužky.",
+            "Na 1 pánvi si osmaheme nudle na 2 lžících oleje a pak je dáme bokem.",
+            "Nejlépe ve woku, na nejvyšší stupeň sporáku osmažíme cibuli na 2 lžících oleje. Po 3 minutách ji dáme bokem.",
+            "Pokud už nemáme ve woku olej, přidáme lžíci a po zahřátí přidáme maso, začneme míchat, až když se odlepí od povrchu. Když je skoro hotové, přidáme k němu cibuli a osmahnuté nudle.",
+            "Zalijeme lžící rybí omáčky, lžící sojovky, lžící ústřicové omáčky a kapičkou sezamového oleje.",
+            "Míchám aby se vše dobře propojilo a pak přidám zeleninu - hlívu dříve, mrkev později.",
+            "Promícháme, jen aby se zelenina udělala a můžeme podávat, případně dochutíme pálivou omáčkou.",
+            "Servírujeme nahoře se smaženou nebo jarní cibulkou."
+        ],
+        "tips": [
+            "Nejlepší s krutím nebo kuřecím masem.",
+            "Lze přidat i jiné houby nebo obmněnit zeleninu. Osvědčená je paprika, bílé zelí."
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Rajská omáčka",
+        "meat": "hovězí",
+        "side": "knedlík",
+        "cuisine": "česká",
+        "spicy": "nepálivé",
+        "images": [
+            "images/.............png"
+        ],
+        "description": "Rajská omáčka od Teri mamky",
+        "ingredients": [
+            "300g hovězího - falešná svíčka nebo kližka",
+            "1,5l vody",
+            "2 malé rajčatové protlaky",
+            "3x bobkový list",
+            "3x nové koření",
+            "5x celý pepř",
+            "1 malá cibule",
+            "sůl",
+            "3 lžíce octu",
+            "1 lžíce cukru",
+            "knedlík"
+        ],
+        "instructions": [
+            "Maso dáme vařit do 1,5l vody, přidáme cibuli, nové koření, pepř a bobkový list a vaříme cca 3 hodiny doměkka.",
+            "Na pánvi si osmahneme protlak.",
+            "Po uvaření maso výtahneme, vývar scedíme, a přidáme protlak, ocet, cukr a sůl.",
+            "Vaříme asi půl hodiny, pak zahustíme světlou jíškou.",
+            "Vaříme další půl hodinu a nakonec ještě podle chuti dochutíme octem a cukrem.",
+            "Maso si ohřejeme na páře a podáváme s rajskou a knedlíkem."
+        ],
+        "tips": [
+            "NIKDY, ale NIKDY tam necpi skořici!!!",
+            "Můžete se dělat i se šlehačkou, kterou přidáme na konci a 5 minut ji provaříme."
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Bramboráky",
+        "meat": "bezmasé",
+        "side": "brambory",
+        "cuisine": "česká",
+        "spicy": "nepálivé",
+        "images": [
+            "images/.............png"
+        ],
+        "description": "Snad už doladěné bramboráky",
+        "ingredients": [
+            "750g brambor",
+            "1 vejce",
+            "80g hladká mouka",
+            "200ml horké vody/mléka",
+            "6 stroužků česneku",
+            "1 lžíce majoránky",
+            "1/2 lžičky mletého kmínu",
+            "lžička soli",
+            "lžička pepře",
+            "sádlo na smažení"
+        ],
+        "instructions": [
+            "Brambory umyjte, oloupejte a nastrouhejte najemno do mísy.",
+            "Na mísu položte cedník, přendejte do něj nastrouhané brambory a vymačkejte z nich co nejvíce vody, nechte odstát a odkapat zbytek vody do mísy.",
+            "Na dně mísy s vodou z brambor se usadí a zatuhne škrob, vodu slijte a nastrouhané brambory vraťte do mísy ke škrobu.",
+            "Brambory zalijte horkým mlékem/vodou a přidejte ostatní ingredience kromě sádla. Dobře promíchejte.",
+            "Rozehřejte velkou těžkou nerezovou pánev a dejte do ní lžičku sádla. Jakmile se sádlo rozpustí a začne v něm „lupat“ (ale pozor, aby se z něj ještě nezačalo kouřit), naberte jednu menší naběračku těsta, vyklopte ji doprostřed pánve a obrácenou stranou naběračky nebo lžící rozetřete těsto na půl centimetru vysokou placku. Opékejte pouze na středním plameni, bramborák se musí dobře propéct, aby uvnitř nezůstal syrový.",
+            "Až po 2-3 minutách spodní strana bramboráku zezlátne, opatrně jej obraťte a stejným způsobem opečte i na druhé straně. Dobře upečený bramborák je křupavý a uvnitř dostatečně měkký, bez škrobové příchuti nedovařených brambor."
+        ],
+        "tips": [
+            "Může se podávat s uzeným a kyselým zelím."
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Mexické fazole",
+        "meat": "vepřové",
+        "side": "chleba",
+        "cuisine": "mexická",
+        "spicy": "shoř",
+        "images": [
+            "images/.............png"
+        ],
+        "description": "Mexické fazole co vůbec nepálí! (dělám si srandu)",
+        "ingredients": [
+            "200g vepřového masa",
+            "1 konzerva červených fazolí",
+            "sůl a pepř",
+            "chilli, pálivá paprika a chilli vločky",
+            "6 stroužků česneku",
+            "1 malá pálivá klobása",
+            "50g špeku",
+            "vývar",
+            "0,5 papriky",
+            "1 větší cibule"
+        ],
+        "instructions": [
+            "Brambory umyjte, oloupejte a nastrouhejte najemno do mísy.",
+            "Na mísu položte cedník, přendejte do něj nastrouhané brambory a vymačkejte z nich co nejvíce vody, nechte odstát a odkapat zbytek vody do mísy.",
+            "Na dně mísy s vodou z brambor se usadí a zatuhne škrob, vodu slijte a nastrouhané brambory vraťte do mísy ke škrobu.",
+            "Brambory zalijte horkým mlékem/vodou a přidejte ostatní ingredience kromě sádla. Dobře promíchejte.",
+            "Rozehřejte velkou těžkou nerezovou pánev a dejte do ní lžičku sádla. Jakmile se sádlo rozpustí a začne v něm „lupat“ (ale pozor, aby se z něj ještě nezačalo kouřit), naberte jednu menší naběračku těsta, vyklopte ji doprostřed pánve a obrácenou stranou naběračky nebo lžící rozetřete těsto na půl centimetru vysokou placku. Opékejte pouze na středním plameni, bramborák se musí dobře propéct, aby uvnitř nezůstal syrový.",
+            "Až po 2-3 minutách spodní strana bramboráku zezlátne, opatrně jej obraťte a stejným způsobem opečte i na druhé straně. Dobře upečený bramborák je křupavý a uvnitř dostatečně měkký, bez škrobové příchuti nedovařených brambor."
+        ],
+        "tips": [
+            "Nejlepší s chlebem.",
+            "No dobře, nemusíte tam dávat tolik chilli."
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Langoše",
+        "meat": "bezmasé",
+        "cuisine": "maďarská",
+        "spicy": "nepálivé",
+        "images": [
+            "images/.............png"
+        ],
+        "description": "Boží domácí langoše",
+        "ingredients": [
+            "300g hladké mouky",
+            "17,5g čerstvého droždí",
+            "250ml teplé vody",
+            "0,5 lžičky cukru",
+            "0,5 lžičky soli",
+            "kečup",
+            "gouda",
+            "4 stroužky česneku",
+            "jalapeňos",
+            "kousek slaniny"
+        ],
+        "instructions": [
+            "Dej předehřát troubu bez horkovzduchu na 30°C.",
+            "Do mísy odvaž mouku.",
+            "V misce rozmačkej lžičkou droždí s cukrem do tekuté konzistence. Poté přidej půl lžíce hladké mouky z mísy, znovu rozmíchej, aby se spojila s droždím. Poté přilij trošku vody a rozmíchej tak, aby v ní nebyly hrudky mouky, potom přilij asi polovinu odměřené vody, rozmíchejte a dej na 15 minut do vyhřáté trouby.",
+            "Do mísy s moukou přidej sůl a promíchej metličkou. Přilij kvásek a vodu a hnětej 10 minut.",
+            "Vyklop těsto z mísy na pomoučenou nebo lehce olejem potřenou plochu a zformuj z ní kouli. Mísu lehce vytřete olejem, dej do ní těsto a přikryj pokličkou, potom nech kynout asi 25 minut v troubě vyhřáté na 30°C.",
+            "Z vykynutého těsta zformuj langoše, těsto vystačí asi na 6ks ale může jich být více či méně podle velikosti. Každý kus těsta zformuj do kuličky a nech kynout na desce, po zformování poslední kuličky přikryj a nech kynout dalších asi 5 minut na desce.",
+            "Kouli z těsta vždy roztahej v ruce nebo rozválej válečkem do tenčí placky a hned vlož do rozpáleného oleje.",
+            "Osmaž si trochu slaniny, ale ne do křupava, nastrouhej si sýr, buď na jemno nebo hrubo podle toho co máš rád, případně si pokrájej jalapeňos.",
+            "Nastrouhej česnek, přidej 2 kapky oleje a vodu a vytvoř pastu (ne moc hustou ne moc tekutou."
+        ],
+        "tips": [
+            "Během smažení dávej hotové langoše do trouby vyhřáté na cca. 100°C aby nevychladly a zdob je po dosmažení posledního najednou."
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Kvásek",
+        "bake": "kynuté",
+        "images": [
+            "images/.............png"
+        ],
+        "description": "Základní recept na kvásek z čerstvého droždí",
+        "ingredients": [
+            "21g čerstvého droždí",
+            "0,5 lžičky curku",
+            "0,5 lžíce hladké mouky",
+            "300 ml vody"
+        ],
+        "instructions": [
+            "Důležitá poznámka: Suroviny se odebírají z celkového množství surovin z finálního receptu ",
+            "Droždí rozmělníme lžičkou a pak přidáme cukr.",
+            "Znova rozetřeme a přidáme moukou a rozmícháme do kaše, do které přidáme trošku vody z celkového objemu.",
+            "Mícháme, dokud nejsou hrudky a postupně vléváme zbytek vody.",
+            "Dáme kvasit do předehřáte trouby na 30° na 15 minut."
+        ],
+        "tips": [
+            "Kvásek by měl mít pěknou čepici."
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Cibulové kroužky",
+        "meat": "bezmasé",
+        "cuisine": "česká",
+        "spicy": "nepálivé",
+        "images": [
+            "images/.............png"
+        ],
+        "description": "Ještě musíme doladit, aby nebyly tak mastné. Toto je pro 1 člověka",
+        "ingredients": [
+            "1 cibule",
+            "1 lžíce hladké mouky",
+            "0,5 lžičky soli",
+            "1 lžíce vody",
+            "1 vejce",
+            "1 lžička kypřícího prášku",
+            "50ml oleje"
+        ],
+        "instructions": [
+            "Těstíčko smícháme z mouky, vody, vejce a kypřícího prášku.",
+            "Cibuli nakrájíme na kroužky a dáme do ledové vody i s ledem a lžičkou soli na 20min, pak osušíme, obalíme v mouce a namočíme do těstíčka.",
+            "Smažíme na slunečnicovém oleji, necháme okapat a podáváme s dipem podle chuti."
+        ],
+        "tips": [
+            "Pro pivní verzi přidej trochu piva do těstíčka."
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Rajčatová salsa",
+        "meat": "bezmasé",
+        "cuisine": "mexická",
+        "spicy": [
+            "pikantní",
+            "shoř"
+        ],
+        "images": [
+            "images/11.png"
+        ],
+        "description": "Salsa k buritu nebo quesadillám",
+        "ingredients": [
+            "1/4 cibule",
+            "3 rajčata",
+            "1 stroužek česneku",
+            "jalapeňos",
+            "olivový olej",
+            "sůl a pepř a mletý koriandr"
+        ],
+        "instructions": [
+            "Rajčata spaříme a oloupeme, nakrájíme na kostičky a scedíme šťávu.",
+            "Poté přidáme cibuli, česnek a jalapeňos na malé kostičky, zakápneme trochou olivového oleje, okořeníme.",
+            "Vše rozmixujeme, případně zredukujeme a necháme vychladit v lednici."
+        ],
+        "tips": [
+            "Lepší je když není příliš vodová."
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Guacamole",
+        "meat": "bezmasé",
+        "cuisine": "mexická",
+        "spicy": "pikantní",
+        "images": [
+            "images/10.png"
+        ],
+        "description": "Guacamole k buritu nebo quesadillám",
+        "ingredients": [
+            "1 avokádo",
+            "1 rajče",
+            "citrón nebo limetka",
+            "1 stroužek česneku",
+            "jalapeňos",
+            "1/4 červené cibule",
+            "olivový olej",
+            "1,2 lžičky soli",
+            "1/4 měděné lžičky mletého koriandru",
+            "1/4 měděné lžičky mletého římského kmínu"
+        ],
+        "instructions": [
+            "Rajčata spaříme a oloupeme, nakrájíme na kostičky a scedíme šťávu.",
+            "Avokádo vyloupneme a rozmačkáme vidličkou (ne až na pastu!) a přidáme jalapeňos.",
+            "Nakrájíme cibuli na drobno, přidáme koření a trošku šťávy z citrónu nebo limetky.",
+            "Vše promícháme vidličkou a případně dochutíme. Necháme odležet v lednici."
+        ],
+        "tips": [
+            "Limetka je lepší než citrón."
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Těstovinový salát s tuňákem",
+        "meat": "rybí",
+        "side": "těstoviny",
+        "cuisine": "česká",
+        "spicy": "nepálivé",
+        "images": [
+            "images/......"
+        ],
+        "description": "Těstovinový salát s tuňákem na vícerovariací",
+        "ingredients": [
+            "1 konzerva tuňáka",
+            "2 porce fusili",
+            "2 vejce",
+            "cherry rajčátka",
+            "salát",
+            "sůl a pepř",
+            "ZÁLIVKA 1",
+            "2 lžíce slunečnicového oleje",
+            "1 lžíce olivového oleje",
+            "1 lžička hořčice",
+            "1 lžička cukr/med",
+            "1 lžička citronové šťávy",
+            "sůl a pepř",
+            "ZÁLIVKA 2",
+            "0,5 250ml kelímku bílého jogurtu nebo zakysané smetany",
+            "sůl a pepř",
+            "torchu šťávy z limetky nebo citrónu",
+            "1 lžička cukr/med",
+            "čerstvá pažitka"
+        ],
+        "instructions": [
+            "Dáme si vařit osolené těstoviny a v druhém hrnci vejce.",
+            "Smícháme tuňáka z konzervy (bez oleje nebo šťávy) s nakrájeným salátem a rajčatama. Trochu posolíme a popepříme.",
+            "Uděláme si zálivku 1 smícháním ingrediencí výše, nebo zálivku 2. A nebo nějakou jaká chutná vám.",
+            "Dáme vše dokupy, vajíčko si nakrájíme na měsíčky a podáváme."
+        ],
+        "tips": [
+            "Lze kombinovat s těstovinami i jinými zálivkami."
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Bramborový salát",
+        "meat": "bezmasé",
+        "side": "brambory",
+        "cuisine": "česká",
+        "spicy": "nepálivé",
+        "images": [
+            "images/......"
+        ],
+        "description": "Nejlepší salát! Ten se nemění a nezkouší se ani žádný jiný.",
+        "ingredients": [
+            "0,5kg brambor",
+            "1 malá cibule",
+            "2 kyselé okurky",
+            "malý hrášek",
+            "1 mrkev",
+            "celer",
+            "1 zelené jablko",
+            "420ml Helman's majonézy",
+            "půl lžičky hořčice",
+            "pepř a sůl"
+        ],
+        "instructions": [
+            "Brambory uvaříme ve slupce, necháme vychladit, oloupeme a nakrájíme na malé kostičky.",
+            "Uvaříme celer a mrkev a nakrájíme je na o něco menší kostičky než brambory.",
+            "Nakrájíme si na malé kostičky jablko, cibuli a okurku.",
+            "Vše dáme dohromady, přidáme majonézu, hořčici, sůl a pepř. Jemně promícháme a dáme odležet do lednice."
+        ],
+        "tips": [
+            "Pro odlehčení přidat trochu bílého jogurtu."
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Volské oko s bramborem a hlávkovým salátem v nálevu",
+        "meat": "bezmasé",
+        "side": "brambory",
+        "cuisine": "česká",
+        "spicy": "nepálivé",
+        "images": [
+            "images/......"
+        ],
+        "description": "Lehká letní mňamka.",
+        "ingredients": [
+            "hlávkový salát",
+            "20g slaniny",
+            "3 lžíce octu",
+            "3 lžíce cukru",
+            "3dcl vody",
+            "2 vejce",
+            "brambory",
+            "sůl a kmín"
+        ],
+        "instructions": [
+            "Uvaříme si osolené a okmínované brambory.",
+            "Připravíme si nálev na salát. Vezmeme vodu, ocet a cukr, převaříme (případně dochutíme) a necháme vychladnout.",
+            "Osmažíme si slaninu, kterou jsme si nakrájeli na kostičky. Část si dáme do mísy se salátem. a zalijeme vychladnutým nálevem.",
+            "Uděláme si volské oka na kousku slaniny.",
+            "Podáváme s vařeným bramborem."
+        ],
+        "tips": [
+            "Slanina je lepší, když není křupavá."
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Pochoutkový salát",
+        "meat": "bezmasé",
+        "side": "chleba",
+        "cuisine": "česká",
+        "spicy": "nepálivé",
+        "images": [
+            "images/......"
+        ],
+        "description": "Vylazený domácí pochoutkový salát.",
+        "ingredients": [
+            "200 g šunkového salámu nebo domácí šunky",
+            "90 g sterilovaných okurek",
+            "28 g sterilovaného hrášku",
+            "12,8 g cibule",
+            "150 g majonézy",
+            "10 g plnotučné hořčice",
+            "5 g cukru krupice",
+            "3 g octa",
+            "4 g worcesteru",
+            "2,5 g soli",
+            "0,25 g mletého pepře"
+        ],
+        "instructions": [
+            "Salám a okurky nakrájíme stejnoměrně na tenké nudličky. Cibuli oloupeme a nakrájíme najemno.",
+            "Do mísy dáme okurky, hrášek a cibuli. Přidáme worcestrovou omáčku, hořčici, ocet, cukr, pepř, majonézu a promícháme.",
+            "Přidáme šunkový salám a nakonec postupně osolíme. Každý salám i majonéza mohou být už od výrobce jinak slané, tak opravdu postupně, ať to se solí nepřeženeme.",
+            "Necháme uležet v lednici."
+        ],
+        "tips": [
+            "Nejlepší je s čerstvým chlebem či pečivem  anebo na chlebíčky."
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Feferonový salát",
+        "meat": "bezmasé",
+        "side": "chleba",
+        "cuisine": "česká",
+        "spicy": "nepálivé",
+        "images": [
+            "images/......"
+        ],
+        "description": "Vylazený domácí feferonový salát na 3 porce.",
+        "ingredients": [
+            "180g nakládaná paprika",
+            "142,5 g sýru Eidam",
+            "90 g sterilovaných cibulek",
+            "50 g sterilovaného hrášku",
+            "60 g rostlinného oleje neutrální chuti",
+            "2,5 g worcestru",
+            "10 g cukru",
+            "5 g soli",
+            "mletý černý pepř"
+        ],
+        "instructions": [
+            "Paprikový salát pokrájíme na nudličky.",
+            "Přidáme cibulky nakrájené na kolečka a hrášek..",
+            "Dále přidáme olej, worcester, cukr, pepř a zlehka promícháme se sýrem nakrájeným na nudličky (tenké plátky cca 2-3 mm).",
+            "Trochu osolíme a necháme uležet v chladu. Po uležení ještě případně dosolíme."
+        ],
+        "tips": [
+            "Může být i z pálivé papriky."
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Česneková pomazánka",
+        "spicy": "shoř",
+        "other": "pomazánky",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Podle Teri",
+        "ingredients": [
+            "3 kostky taveného sýra",
+            "50g goudy",
+            "3 lžíce Helman's tatarky",
+            "10 stroužků česneku",
+            "sůl a pepř"
+        ],
+        "instructions": [
+            "Smícháme tavený sýr s nastrouhaným tvrdým sýrem, nastrouhaným česnekem a tatarkou.",
+            "Dochutíme solí a pepřem, a rozmixujeme."
+        ],
+        "tips": [
+            "Oukej, můžete dát i méně česneku."
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Rybičková pomazánka s vajíčkem",
+        "other": "pomazánky",
+        "images": [
+            "images/12.png"
+        ],
+        "description": "od Zuzky",
+        "ingredients": [
+            "1 sardinky",
+            "3 stroužky česneku",
+            "3 lžíce majonézy",
+            "3 lžičky hořčice",
+            "3 vejce",
+            "zelná cibulka",
+            "sůl a pepř a mletá paprika"
+        ],
+        "instructions": [
+            "Vajíčka uvaříme na tvrdo, po vychladnutí nakrájíme na kostičky.",
+            "Smícháme veškeré suroviny a podáváme s pečivem nebo chlebem."
+        ],
+        "tips": [
+            "Olej nebo štávu z rybiček dej pryč."
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Rybičková pomazánka",
+        "other": "pomazánky",
+        "images": [
+            "images/12.png"
+        ],
+        "description": "Podle Kwaje",
+        "ingredients": [
+            "1 sardinky",
+            "2 lžíce majonézy",
+            "malá cibule",
+            "1 lžíce hořčice",
+            "1 kyselá okurka",
+            "sůl a pepř"
+        ],
+        "instructions": [
+            "Vememe sardinky bez oleje/šťávy, nastrouháme cibuli, přidáme majonézu a hořčici.",
+            "Kyselou okurku nakrájíme na mini kostičky a dochutíme solí a pepřem."
+        ],
+        "tips": [
+            "Pro dochucení použij trošku láku z okurek."
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Vajíčková pomazánka",
+        "other": "pomazánky",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Obyčejná, ale mňamková pomazánka.",
+        "ingredients": [
+            "4 vejce",
+            "2 lžíce majonézy",
+            "1 malá cibule",
+            "1 lžička hořčice",
+            "1/2 červené cibule",
+            "1 stonek zelené cibulky",
+            "sůl a pepř a pažitka nebo sušená petržel"
+        ],
+        "instructions": [
+            "Vejce uvaříme na tvrdo, pak nakrájíme na kostičky, přimícháme zbytek surovin a lehce promícháme."
+        ],
+        "tips": [
+            "Podáváme s chlebem nebo čerstvou bagetkou."
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Sekaná",
+        "meat": "vepřové",
+        "side": "brambory",
+        "cuisine": "česká",
+        "spicy": "nepálivé",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Vymazlená sekaná.",
+        "ingredients": [
+            "na 1kg mletého vepřového masa",
+            "1-2 vejce",
+            "4 hrsti strouhanky",
+            "1 malá cibule",
+            "1 lžička hořčice",
+            "4 stroužky česneku",
+            "sůl a pepř"
+        ],
+        "instructions": [
+            "Smícháme vše dohromady a rukama vypracujeme sekanou.",
+            "Šišku dáme péct na 160° asi na 90 minut.",
+            "Podáváme s bramborovou kaší nebo vařeným bramborem a kyselou okurkou."
+        ],
+        "tips": [
+            "Nejlepší je bez vejce uvnitř, ale kdo má rád, tak ho tam může zapéct."
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Pirožky",
+        "meat": "bezmasé",
+        "cuisine": "polská",
+        "spicy": "nepálivé",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Pirožky se zlatou cibulkou na 4 porce",
+        "ingredients": [
+            "500g hladké mouky",
+            "1 lžíce oleje",
+            "300ml vroucí vody",
+            "0,5 lžičky soli",
+            "1 velká cibule"
+        ],
+        "instructions": [
+            "Cibuli nakrájíme na kostičky a osmažíme do zlatova.",
+            "Připravíme si náplně: Nejlepší ověřené náplně jsou: slanina + hlíva/žampion nebo hlíva/žampion se zlatou cibulí.",
+            "Těsto vypracujeme rukama a ihned děláme kolečka a dáváme dovnitř náplň.",
+            "Když už máme hotové pirožky, dáme je do vroucí osolené vody a vaříme 3 minuty od chvíle, kdy vyplavou nahoru.",
+            "Podáváme s dozlatova osmaženou cibulkou, případně pažitkou nebo zakysanou smetanou."
+        ],
+        "tips": [
+            "Těsto rychle tuhne, proto se s ním pracuje hned a rychle.",
+            "Pokud chceme masovou náplň, pak z mletého masa, dochuceného podle vaši chuti buď se slaninou nebo zlatou cibulkou."
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Segedín",
+        "meat": "vepřové",
+        "side": "knedlík",
+        "cuisine": "maďarská",
+        "spicy": "nepálivé",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Segedínský guláš nom nom",
+        "ingredients": [
+            "1 velká cibule",
+            "0,5kg vepřové krkovice",
+            "sádlo",
+            "sůl a pepř a mletá paprika",
+            "kyselé zelí",
+            "vývar/voda"
+        ],
+        "instructions": [
+            "Na tuku orestujeme cibuli a posolené a popepřené vepřové, když se zatáhne, posypeme mletou paprikou a zalijeme vývarem nebo vodou.",
+            "Po 45 minutách přidáme půl balíčku kyselého zelí a vaříme dalších 30 minut.",
+            "Uděláme si jíšku tj. tuk a mouka v poměru 1:1, osmahneme do požadované barvy a pomalu přiléváme z vodu z hrnce se zelím a masem. Toto ještě provaříme 15 minut.",
+            "Nakonec můžeme, ale nemusíme přidat smetanu, provaříme to ještě 15 minut.",
+            "A můžeme podávat s houskovým knedlíkem."
+        ],
+        "tips": [
+            "Těsto rychle tuhne, proto se s ním pracuje hned a rychle.",
+            "Pokud chceme masovou náplň, pak z mletého masa, dochuceného podle vaši chuti buď se slaninou nebo zlatou cibulkou."
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Vietnamský karamelový bůček",
+        "meat": "vepřové",
+        "side": "rýže",
+        "cuisine": "asijská",
+        "spicy": "pikantní",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Vietnamský karamelový bůček s rýží a čerstvou jarní cibulkou.",
+        "ingredients": [
+            "250g bůčku",
+            "0,5 lžíce rybí omáčky",
+            "90ml kokosové vody",
+            "1/4 cibule",
+            "1 stroužek česneku",
+            "Sůl a bílý pepř",
+            "voda",
+            "25g cukru",
+            "sádlo",
+            "Chilli vločky",
+            "1-2 stonky zelené cibulky",
+            "rýže"
+        ],
+        "instructions": [
+            "Nakrájíme cibuli a česnek na malé kostičky.",
+            "Nakrájíme bůček na malé až střední kostičky, dáme ho do hrnce a zalijeme horkou vodou, po okraj masa. Přivedeme k varu a 2 minuty povaříme. POZOR HODNĚ PĚNÍ!",
+            "Scedíme a trošičku posolíme a popepříme.",
+            "Uvaříme si rýži a nakrájíme jarní cibulku.",
+            "Na troše sádla osmažíme česnek a cibulku a po změknutí dáme do misky bokem.",
+            "V té samé pánvi osmažíme bůček do zlatova. POZOR LEPÍ SE - HODNĚ MÍCHAT.",
+            "Přidáme cibuli.",
+            "Slijeme tuk, necháme jen tak na dně, sporák dáme na střední stupeň a přidáme cukr, jak z něj bude karamel, přidáme kokosovou vodu a rybí omáčku a mícháme dokud se karamel nerozpustí.",
+            "Pak přidáme bůček s cibulí a česnekem a mícháme dokud to nezhoustne.",
+            "Podáváme na talíř odděleně rýži, bůček posypaný chilli vločkami a zelenou cibulkou."
+        ],
+        "tips": [
+            "Na rýži si můžeme nasypat černý sezam."
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Hovězí na guinessu",
+        "meat": "hovězí",
+        "side": "brambory",
+        "cuisine": "irská",
+        "spicy": "nepálivé",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Hovězí na guinessu s bramborovou kaší.",
+        "ingredients": [
+            "1,25kg hovězí kližky",
+            "3 stroužky česneku",
+            "90ml kokosové vody",
+            "2 cibule",
+            "180g slaniny",
+            "Sůl a pepř",
+            "3 mrkve",
+            "3 nožky řapíkatého celeru",
+            "3 lžíce mouky",
+            "440ml guinessu",
+            "4 lžíce rajčatového protlaku",
+            "750ml hovězího vývaru",
+            "2 bobkové listy",
+            "1 lžička sušeného tymiánu (nebo 3 snítky čerstvého)",
+            "brambory"
+        ],
+        "instructions": [
+            "Nakrájené maso na větší kostky osolíme a opepříme a osmažíme tak, aby se zatáhlo a dáme ho bokem.",
+            "Slaninu, cibuli a česnek osmažíme, pak přidáme mrkev a celer a znovu osmažíme.",
+            "Přidáme mouku, chvíli promícháme, aby se mouka opražila a přidáme pivo, protlak, vývar a koření.",
+            "Dáme do toho maso a 2 hodiny na slabý stupeň vaříme, po 45 minutách dáme pryč pokličku a necháme probublávat.",
+            "Dosolíme a dopepříme a můžeme podávat s bramborovou kaší."
+        ],
+        "tips": [
+            "Servírujeme doprostřed bramborové kaše."
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Znojemská hovězí pečeně",
+        "meat": "hovězí",
+        "side": [
+            "rýže",
+            "knedlík"
+        ],
+        "cuisine": "irská",
+        "spicy": "nepálivé",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Znojemská pečeně s rýží nebo knedlíkem.",
+        "ingredients": [
+            "2 hovězí plec",
+            "40g slaniny",
+            "140g kyselých okurek",
+            "1 velká cibule",
+            "50g sádla",
+            "1 lžíce plnotučné hořčice",
+            "100ml láku z okurek",
+            "0,5l hovězího vývaru",
+            "2 lžíce mouky",
+            "sůl a pepř"
+        ],
+        "instructions": [
+            "Slaninu si nakrájíme na špalíčky a okurky na kostičky. Cibuli nahrubo.",
+            "Maso hodně osolíme a opepříme, v hlubší pánvi opečeme na sádle, dokud se nezatáhne.",
+            "Maso vyndáme a osmažíme cibuli a slaninu do tmavohněda - cca 15 minut.",
+            "Přidáme hořčici a orestujeme ji, poté přidáme mouku a znovu orestujeme.",
+            "Po částech vmícháváme lák a vývar.",
+            "Přidáme maso a cca 1,5h dusíme pod pokličkou na 4 stupni/mírném plameni.",
+            "Vyndáme maso a slaninu, omáčku přecedíme a cibuli rozmixujeme tyčovým mixérem.",
+            "Přidáme okurky, maso a slaninu a chvíli povaříme.",
+            "Podáváme s rýži nebo houskovým knedlíkem."
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Zelňačka",
+        "meat": "bezmasé",
+        "side": "chleba",
+        "cuisine": "česká",
+        "spicy": "nepálivé",
+        "other": "polévka",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Rychlá zelňačka.",
+        "ingredients": [
+            "1 balíček kyselého zelí",
+            "5 kuliček pepře",
+            "5 kuliček nového koření",
+            "3 ks bobkového listu",
+            "50g sádla",
+            "1 cibule",
+            "1 klobása",
+            "sůl a pepř a mletá paprika",
+            "2 lžíce mouky",
+            "sůl a pepř",
+            "brambory"
+        ],
+        "instructions": [
+            "Dáme vařit zelí, s kořením. Vodu nalijeme 2cm nad zelí.",
+            "Dáme vařit osolený a pokmínovaný brambor nakrájený na kostičky.",
+            "Nakrájíme a osmahneme slaninu, klobásu a cibuli. Zasypeme paprikou a zalijeme základem ze zelí.",
+            "Vše smícháme dohromady, případně dosolíme a dopepříme."
+        ],
+        "tips": [
+            "Můžeme jíst s chlebem nebo bez."
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Bramboračka s lesními houbami",
+        "meat": "bezmasé",
+        "cuisine": "česká",
+        "spicy": "nepálivé",
+        "other": "polévka",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Výborná rychlá polévka z lesa. Na 2 porce.",
+        "ingredients": [
+            "sádlo nebo olej",
+            "půl cibule",
+            "lžíce hladké mouky",
+            "voda",
+            "sůl a pepř",
+            "majoránka",
+            "lesní houby",
+            "2 střední brambory",
+            "2 mrkve",
+            "kousek celeru",
+            "kmín"
+        ],
+        "instructions": [
+            "Na tuku osmahneme cibuli nakrájenou na drobno.",
+            "Zasypeme moukou a opražíme s cibulí.",
+            "Postupně zalíváme vodou a mícháme. Přidáme majoránku a sůl. Tento základ vaříme 30 minut.",
+            "V druhém hrnci dáme vařit brambor a celer nakrájené na kostičky a mrkev na kolečka, posolené a pokmnínované.",
+            "Zeleninu vaříme do bodu, kdy není ani měkká ani tvrdá.",
+            "Do 1. hrnce se základem dáme houby a vaříme 15 minut.",
+            "Nakonec přidáme zeleninu i s vodou do 1. hrnce se základem, dochutíme a je hotovo."
+        ],
+        "tips": [
+            "Nejlepší z čerstvých hub."
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Maďarská fazolová polévka",
+        "meat": "bezmasé",
+        "cuisine": "maďarská",
+        "spicy": "shoř",
+        "other": "polévka",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Objevená maďarská mňamka.",
+        "ingredients": [
+            "250g červených fazolí",
+            "2 lžíce sádla/olej",
+            "0,5l zeleninového vývar",
+            "1l voda",
+            "2 cibule",
+            "sůl a pepř",
+            "1 lžíce mleté sladké papriky",
+            "1 lžíce mleté pálivé papriky",
+            "2 červené papriky",
+            "1 lžíce hladké mouky",
+            "1 lžíce petrželové natě",
+            "1 ostrá klobása ",
+            "1 lžíce mletého chilli",
+            "4 stroužky česneku",
+            "zakysaná smetana"
+        ],
+        "instructions": [
+            "Na tuku osmahneme cibuli nakrájenou na plátky. Zaprášíme moukou, opražíme, přidáme mleté papriky, rychle opražíme a zalijeme konzervou fazolí.",
+            "Zalijeme vývarem, přidáme papriku, osolíme a vaříme 15 minut.",
+            "Přidáme chilli, petržel, klobásu na kolečka, nastrouhaný česnek a vaříme dokud nezhoustne."
+        ],
+        "tips": [
+            "Zakysaná smetana nahoru je naprosto dobrovolná."
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Rajčatová polévka",
+        "meat": "bezmasé",
+        "cuisine": "italská",
+        "spicy": "shoř",
+        "other": "polévka",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "To se jednou stalo, že nebylo z čeho udělat polévku a v lednici byly jen rajčata. A tak přišla na svět tato polévka, čistě z hlavy a chuťových buněk.",
+        "ingredients": [
+            "4 rajčata",
+            "2 lžíce sádla/olej",
+            "0,5l zeleninového nebo kuřecího vývar",
+            "1l vody",
+            "2 cibule",
+            "sůl a pepř",
+            "1 lžíce mleté pálivé papriky",
+            "1 lžička bazalky",
+            "1 lžička oregána",
+            "1 lžíce petrželové natě",
+            "1 lžíce mletého chilli",
+            "4 stroužky česneku"
+        ],
+        "instructions": [
+            "Na tuku osmahneme cibuli nakrájenou na plátky. Přidáme rajčata na kostičky.",
+            "Přidáme mletou papriku, rychle opražíme a zalijeme vývarem a vodou.",
+            "Vaříme 30 minut. Nasypeme tam všechno výše zmíněné koření a česnek a vaříme ještě 10 minut.",
+            "Můžeme ale nemusíme podávat s krutonky."
+        ],
+        "tips": [
+            "Pokud málo pálí, přidáváme ještě chilli vločky."
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Kyselé okurky",
+        "other": "zavařování",
+        "images": [
+            "images/okurky.jpg"
+        ],
+        "description": "Nejlepší okurky, jaké jsme kdy jedli. Suroviny jsou na 5kg okurek",
+        "ingredients": [
+            "3l vody",
+            "1l octu",
+            "20 tabletek sacharinu",
+            "0,5kg cukru",
+            "20ks nové koření",
+            "20ks celý černý pepř",
+            "10ks bobkový list",
+            "4 lžíce soli",
+            "14g hořčičného semínka",
+            "0,5kg cibule",
+            "1 x 40cm křen",
+            "0,5kg mrkve",
+            "Svazek kopru velký"
+        ],
+        "instructions": [
+            "Okurky očistit vodou a kartáčkem.",
+            "Nakrájet si zeleninu na kolečka a natrhat kopr.",
+            "Vymýt sklenice a dát na 100° na 10min do trouby.",
+            "Udělat nálev.",
+            "Nacpat do sklenic 3ks křenu, 3 kolečka cibule a 5 koleček mrkve + okurek co se vleze, zalít nálevem cca 2cm od okraje.",
+            "Pořádně utáhnout.",
+            "Do velkého hrnce si dát utěrku a vložit sklenice s okurkama. Vodu dáme do 3/4 sklenic okurek a vařit s poklicí od bodu varu 10-15 min pro malé okurky, 20 min pro velké okurky.",
+            "Vytáhnout a položit víčkem dolů dokud nevychladnou.",
+            "Pokud se vylívají nebo syčí, povařit znovu cca 10-15 min."
+        ],
+        "tips": [
+            "Na obrázku je recept na zavaření 20kg okurek."
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Kokosky",
+        "bake": "cukroví",
+        "images": [
+            "images/x.jpg"
+        ],
+        "ingredients": [
+            "1 bílek",
+            "20g cukru",
+            "60g kokosu"
+        ],
+        "instructions": [
+            "Bílek a cukr šleháme dohromady v horké lázni.",
+            "Až má správnou konzistenci, přidáme kokos a promícháme.",
+            "Vytvarujeme na plech a pečeme na 160°."
+        ],
+        "tips": [
+            "KOKOS KOKOS KOKOS."
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Rybí očka",
+        "bake": "cukroví",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Nepečené cukroví",
+        "ingredients": [
+            "200g cukr moučka",
+            "200g kokosu",
+            "50g másla ",
+            "2 bílky",
+            "citronová kůra",
+            "citronová šťáva",
+            "hořká čokoláda"
+        ],
+        "instructions": [
+            "Ze všech ingrediencí kromě hořké čokolády uhnětáme těsto a dáme do lednice odpočinout.",
+            "Rozpustíme si hořkou čokoládu v lázni a po vytvarování kuliček z těsta uděláme do důlku kapku."
+        ],
+        "tips": [
+            "KOKOS KOKOS KOKOS."
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Kuličky",
+        "bake": "cukroví",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Nepečené cukroví",
+        "ingredients": [
+            "250g másla",
+            "200g cukru",
+            "40g kakaa",
+            "2 žloutky",
+            "1/4 rumu (i víc)",
+            "1 velké piškoty",
+            "1 vanilkový cukr",
+            "Ořechy",
+            "rozinky",
+            "kandované ovoce",
+            "1 sáček kokosu"
+        ],
+        "instructions": [
+            "Vyšleháme máslo s cukrem a potom do hmoty přidáme kakao, žloutky, rum, cukr, ořechy, rozinky, kandované ovoce a rozlámané malé kousky piškotů.",
+            "Vytovříme těsto a dáme do lednice alespoň na hodinu.",
+            "Obalujeme v kokosu."
+        ],
+        "tips": [
+            "KOKOS KOKOS KOKOS."
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Skořicové rohlíčky",
+        "bake": "cukroví",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Pečené cukroví",
+        "ingredients": [
+            "350g hladké mouky",
+            "120g cukr moučka",
+            "250g másla",
+            "3 žloutky",
+            "1 lžička skořice",
+            "5 lžic mletých ořechů"
+        ],
+        "instructions": [
+            "Vše rukama zpracovat do těsta, nechat odpočinout a vytvarovat rohlíčky.",
+            "Pečeme na 160° asi 15 minut."
+        ],
+        "tips": [
+            "KOKOS KOKOS KOKOS."
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Žabí huby",
+        "bake": "cukroví",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Pečené cukroví",
+        "ingredients": [
+            "300g hladké mouky",
+            "250g másla",
+            "1 vejce",
+            "1 lžíce vody",
+            "NÁPLŇ:",
+            "100g mletých ořechů",
+            "100g cukru",
+            "1 vejce",
+            "2 lžíce rumu"
+        ],
+        "instructions": [
+            "Vše rukama zpracovat do těsta. Po odpočinutí vykrojit skleničkou kolečko, naplnit a zavřít.",
+            "Pečeme na 160° asi 25 minut."
+        ],
+        "tips": [
+            "KOKOS KOKOS KOKOS."
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Úly",
+        "bake": "cukroví",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Úly podle mámy Teri. Nepečené cukroví",
+        "ingredients": [
+            "200g strouhaných vlašských ořechů",
+            "200g cukr moučka",
+            "1 vejce",
+            "NÁPLŇ:",
+            "rum",
+            "salko",
+            "HMOTA NA PIŠKOT:",
+            "100g másla",
+            "50g curku krystal/krupice",
+            "POLEVA:",
+            "hořká čokoláda"
+        ],
+        "instructions": [
+            "Dohromady vypracujeme těsto a nacpeme do tvořítek. Uděláme důlek, nalijeme náplň, na piškot dáme hmotu a opatrně vyndáme z úlku.",
+            "Špičku namáčíme do roztopené hořké čokolády."
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Linecké cukroví",
+        "bake": "cukroví",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Pečené cukroví",
+        "ingredients": [
+            "300g hladké mouka ",
+            "140g cukr",
+            "140g másla",
+            "2 žloutky",
+            "citronová šťáva",
+            "citronová kůra"
+        ],
+        "instructions": [
+            "Dohromady vypracujeme těsto a necháme odpočinout v lednici. Pak rozválíme a vykrajujeme.",
+            "Pečeme na 160° 15-20 minut podle tloušťky."
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Strojkové cukroví",
+        "bake": "cukroví",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Pečené cukroví",
+        "ingredients": [
+            "125g polohrubé mouky",
+            "100g cukr krupice/krystal",
+            "100g másla",
+            "1 vejce",
+            "75g kokosu"
+        ],
+        "instructions": [
+            "Dohromady vypracujeme těsto a necháme odpočinout v lednici.",
+            "Mělo by se vzít přes strojek s hvězdičkou.",
+            "Pečeme na 160° 15-20 minut podle tloušťky."
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Vanilkové rohlíčky",
+        "bake": "cukroví",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Pečené cukroví",
+        "ingredients": [
+            "140g másla",
+            "70g cukru krupice/krystal",
+            "70g nastrouhaných ořechů",
+            "1 vejce",
+            "+170g hladké mouky",
+            "citronová kůra"
+        ],
+        "instructions": [
+            "Dohromady vypracujeme těsto a necháme odpočinout v lednici.",
+            "Vyválíme a vypracujeme rohlíčky.",
+            "Pečeme na 160° 15-20 minut podle tloušťky.",
+            "Za tepla obalíme ve vanilinovém cukru."
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Esíčka",
+        "bake": "cukroví",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Pečené cukroví",
+        "ingredients": [
+            "250g másla",
+            "250g cukru krupice/krystal",
+            "300g hladké mouky",
+            "1 vanilkový cukr",
+            "170g hladké mouky",
+            "kakao",
+            "citronová kůra"
+        ],
+        "instructions": [
+            "Dohromady vypracujeme těsto a hned dáváme na plech ve tvaru esíček (mělo by se dělat přes strojek).",
+            "Pečeme na 160° 15-20 minut podle tloušťky."
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Bollo Eulalia",
+        "bake": "cukroví",
+        "images": [
+            "images/14.png"
+        ],
+        "description": "Pečené cukroví",
+        "ingredients": [
+            "200g másla",
+            "200g hladké mouky",
+            "200g cukr moučka",
+            "5 žloutků",
+            "1 vanilkový cukr",
+            "200g mletých mandlí",
+            "špetka soli",
+            "1/2 lžičky skořice",
+            "NAHORU",
+            "meruňková marmeláda",
+            "půlené mandle"
+        ],
+        "instructions": [
+            "Dohromady vypracujeme těsto, odležíme a pak tvarujeme do kuliček a doprostřed dáme 3 mandle.",
+            "Pečeme na 150° 20-25 minut do zlatova.",
+            "Ještě horké potřeme marmeládou."
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Florentinské cukroví",
+        "bake": "cukroví",
+        "images": [
+            "images/13.png"
+        ],
+        "description": "Pečené cukroví",
+        "ingredients": [
+            "150g másla",
+            "300g polohrubé mouky",
+            "100g cukr krupice",
+            "2 vejce",
+            "1 vanilkový cukr",
+            "1 lžička prášku do pečiva",
+            "NÁPLŇ:",
+            "100g mandlových lupínků",
+            "100g lískových ořechů",
+            "50g rozinek",
+            "50g másla",
+            "100g cukr krupice",
+            "1 vanilinový cukr",
+            "2 lžíce medu/ třtinového cukru",
+            "125ml smetany ke šlehání 33%"
+        ],
+        "instructions": [
+            "Máslo by mělo být studené.",
+            "Dohromady vypracujeme těsto, odležíme a pak vykrajujeme z placky tvary.",
+            "Náplň si vytvoříme tak, že vše smícháme na pánvi, mícháme protože se to hodně lepí a postupně vléváme smetanu.",
+            "Vykrojené tvary pečeme na 200° 6-8 minut, pak přidáme náplň a pečeme ještě 8-10 minut na 175° do zlatova."
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Karamelové košíčky",
+        "bake": "cukroví",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Pečené cukroví",
+        "ingredients": [
+            "170g másla",
+            "300g hladké mouky",
+            "90g cukr moučka",
+            "1 vejce",
+            "75g loupaných mandlí",
+            "NÁPLŇ:",
+            "125g nasekaných ořechů – vlašské a pekanové",
+            "100g cukr krystal",
+            "300ml smetany ke šlehání 33%"
+        ],
+        "instructions": [
+            "Dohromady vypracujeme těsto, odležíme několik hodin a pak vtlačíme do formy na mufinny (malé).",
+            "Náplň si vytvoříme tak, vytvoříme karamel a postupně do něj vléváme smetanu dokud hmota nezačne tuhnout, pak vsypeme ořechy.",
+            "Náplň dáme do připravených košíčků, přikryjeme proužky těsta a pečeme 10 minut na 180°."
+        ],
+        "tips": [
+            "Lepší je to dělat ve formě na malé mufiny."
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Perníčky",
+        "bake": "cukroví",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Pečené cukroví",
+        "ingredients": [
+            "100g másla",
+            "600g hladké mouky",
+            "200g cukr moučka",
+            "3 vejce",
+            "6 lžic medu",
+            "1,5 lžičky jedlé sody",
+            "1 lžička prášku do pečiva",
+            "2 lžíce perníkového koření",
+            "POLEVA:",
+            "1 bílek",
+            "200g cukr moučka",
+            "citronová šťáva"
+        ],
+        "instructions": [
+            "Dohromady vypracujeme těsto, do kterého nakonec přidáme perníkové koření. Necháme odležet a pak vykrajujeme tvary.",
+            "Poleva: Vyšleháme bílek, přidáme prosetý cukr a podle hustoty přidáme citronovou šťávu, tak aby poleva nebyla ani hustá ani tekutá."
+        ],
+        "tips": [
+            "Když přidáš potravinářské barvivo do polevy, budeš mít perníčky i barevné."
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Opilý František",
+        "bake": "cukroví",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Pečené cukroví",
+        "ingredients": [
+            "150g másla",
+            "70g polohrubé mouky",
+            "120g cukr moučka",
+            "4 vejce",
+            "200g lískové ořechy",
+            "0,5 sáčku prášku do pečiva",
+            "1 lžička prášku do pečiva",
+            "2 lžíce kyselejší marmelády",
+            "POLEVA:",
+            "1 bílek",
+            "80g hořká čokoláda",
+            "100g másla",
+            "2 lžíce kakaa",
+            "KRÉM:",
+            "200g vlašských/lískových ořechů",
+            "180g cukr moučka",
+            "vanilkový cukr",
+            "4 lžíce šlehačky",
+            "3 vejce",
+            "rum"
+        ],
+        "instructions": [
+            "Dohromady vyšleháme těsto, nalejeme na plech vyložený pečícím papírem a pečeme asi 15 minut na 180°.",
+            "Hotový základ potřeme roztopenou marmeládou",
+            "Krém: Promícháme ořechy a 70g cukru a vanilkového cukru se šlehačkou a rumem.",
+            "Ve vodní lázni ušleháme vejce se zbylým cukrem tj. 110g. Šleháme dokud nemá krém hustotu pudingu, který pak promícháme s ořechovým základem.",
+            "Krém rozetřeme na těsto, necháme vychlednout.",
+            "Poleva: Roztopenou čokoládu s máslem a vyšlehaným bílkem nalijeme na studený krém a dáme do lednice chladit.",
+            "Nakonec rozkrájíme na malé obdelníčky."
+        ],
+        "tips": [
+            "Když přidáš potravinářské barvivo do polevy, budeš mít perníčky i barevné."
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Pekanové cukroví",
+        "bake": "cukroví",
+        "images": [
+            "images/15.png"
+        ],
+        "description": "Pečené cukroví",
+        "ingredients": [
+            "120g másla",
+            "200g hladké špaldové mouky",
+            "60g cukr moučka",
+            " 1 lžíce medu",
+            "60g pekanových ořechů (na jemno)",
+            "1 žloutek",
+            "kůra z půl pomeranče",
+            "0,5 lžičky mleté skořice",
+            "meruňková marmeláda",
+            "hořká čokoláda",
+            "celé pekanové ořechy"
+        ],
+        "instructions": [
+            "Dohromady vypracujeme těsto a dáme ho na hodinu odležet do lednice.",
+            "Potom vykrojíme tvary a pečeme na 170° 8-10min.",
+            "Marmeládou slepíme k sobě, nahoru dáme kolečko roztopené čokolády a do něj pekanový ořech."
+        ],
+        "tips": [
+            "Když přidáš potravinářské barvivo do polevy, budeš mít perníčky i barevné."
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Cukroví pro pejska",
+        "bake": "cukroví",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Pečené cukroví",
+        "ingredients": [
+            "200g mleté maso",
+            "80g tvarohu",
+            "1 vejce",
+            "200g ovesných vloček",
+            "50ml oleje"
+        ],
+        "instructions": [
+            "Vyhnětáme těsto a dáme odležet do lednice na 20 minut.",
+            "Potom vykrojíme tvary a pečeme na 160° 30-40min.",
+            "Nakonec necháme trochu prosušit na vzduchu"
+        ],
+        "tips": [
+            "Jde přidat i marmeláda."
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Kiwi zákusek",
+        "bake": "zákusky",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Starý recept z dětství",
+        "ingredients": [
+            "3 bílky",
+            "3 žloutky",
+            "230g cukr moučka",
+            "100ml oleje",
+            "100ml vody",
+            "250g polohrubé mouky",
+            "0,5 prášku do pečiva",
+            "KRÉM:",
+            "šlehačka 250ml",
+            "1 vanilkový cukr",
+            "1 zakysaná smetana",
+            "ŽELÉ:",
+            "0,5l vody",
+            "1 vitacit",
+            "1 vanilkový pudink",
+            "60g cukr moučka",
+            "kiwi"
+        ],
+        "instructions": [
+            "Uděláme si sníh, který přidáme k vyšlehanému těstu nakonec. Pečeme 20 minut na 180°",
+            "Vyšleháme krém a nalijeme ho na upečené těsto, nahoru naskládáme kolečka kiwi a zalijeme vychladlým želé.",
+            "Dáme ztuhnout do lednice."
+        ],
+        "tips": [
+            "Pro intenzivnější chuť můžete přidat trochu červeného vína při dušení.",
+            "Nezapomeňte na čerstvé bylinky, které dodají pokrmu svěžest a aroma."
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Vaječný koňak",
+        "other": "nápoje",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Starý recept od babičky",
+        "ingredients": [
+            "",
+            "4 žloutky",
+            "50g cukr krupice",
+            "0,5l teplého mléka",
+            "0,5l rumu"
+        ],
+        "instructions": [
+            "Cukr se žloutky vyšleháme, přidáme mléko a rum, přelijeme do lahve a dáme chladit do lednice."
+        ],
+        "tips": [
+            "Klidně přidej více rumu."
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Bábovka",
+        "bake": "sladké",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Obyčejná mramorová bábovka.",
+        "ingredients": [
+            "5 vajec",
+            "200g cukr krystal",
+            "1 hrnek vody",
+            "1 hrnek oleje",
+            "450g polohrubé mouky",
+            "1 prášek do pečiva",
+            "1 vanilkový cukr",
+            "rozinky",
+            "rum",
+            "kakao"
+        ],
+        "instructions": [
+            "Cukry se žloutky vyšleháme, přidáme vodu, olej a rum a nakonec mouku a prášek do pečiva.",
+            "Hodíme do těsta rozinky a 3/4 těsta vlejeme do vysypané formy.",
+            "Do zbytku těsta dáme trochu kakaa, vyšleháme a přidáme ke zbytku do formy.",
+            "Pečeme na 160° 40-50 minut."
+        ],
+        "tips": [
+            "Po vychladnutí posypeme moučkovým cukrem."
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Piškotová roláda",
+        "bake": "sladké",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Starý recept od babičky.",
+        "ingredients": [
+            "6 bílků",
+            "6 lžic cukru krystal",
+            "6 žloutků",
+            "6 lžic polohrubé mouky",
+            "1/4 lžičky kypřícího prášku",
+            "kyselejší marmeláda",
+            "cukr moučka"
+        ],
+        "instructions": [
+            "Vyšleháme si sníh.",
+            "Ve druhé míse vyšleháme cukr se žloutky, přidáme mouku a prášek a nakonec jemně už rukou vmícháme sníh.",
+            "Dáme na plech vyložený pečícím papírem a pečeme na 160° 20-25 minut.",
+            "10 minut necháme vychladit, potřeme marmeládou, stočíme a pocukrujeme."
+        ],
+        "tips": [
+            "Můžeme si dovnitř udělat i krém např. z mascarpone a šlehačky."
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Piškotová korpus",
+        "bake": "sladké",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Univerzální recept na piškot.",
+        "ingredients": [
+            "6 bílků",
+            "240g cukr moučka",
+            "6 žloutků",
+            "180g polohrubá mouka",
+            "1/4 lžičky kypřícího prášku"
+        ],
+        "instructions": [
+            "Vyšleháme si sníh.",
+            "Ve druhé míse vyšleháme cukr se žloutky, přidáme mouku a prášek a nakonec jemně už rukou vmícháme sníh.",
+            "Vlejeme do formy a pečeme na 160° 20-25 minut."
+        ],
+        "tips": [
+            "Pro tmavý korpus přidáme kakao."
+        ]
+    },
+    {
+        "id": 60,
+        "name": "American cookies",
+        "bake": "sladké",
+        "images": [
+            "images/x.jpg"
+        ],
+        "description": "Americké čokoládové cookies.",
+        "ingredients": [
+            "2 vejce",
+            "250g cukr krupice",
+            "250g hery/másla",
+            "500g polohrubé mouky",
+            "1/2 prášku do pečiva",
+            "špetka soli",
+            "200g čokolády na vaření",
+            "40g vlašských ořechů"
+        ],
+        "instructions": [
+            "Vyšleháme cukr s vejci a postupně přidáme máslo, sůl, mouku, čokoládu a ořechy rozkrájené na malé kousky.",
+            "Těsto dáme na půl hodiny do lednice",
+            "Vytvoříme z těsta kuličky, dáme na pečícím papírem vyložený plech a pečeme na 180°C cca 20-25 minut."
+        ],
+        "tips": [
+            "Pro tmavý korpus přidáme kakao."
+        ]
+    },
+    {
+        "id": 61,
+        "name": "American pie",
+        "bake": "sladké",
+        "images": [
+            "images/16.png"
+        ],
+        "description": "No neupeč si ho! Kultovka",
+        "ingredients": [
+            "1 vejce",
+            "150g másla",
+            "250g hladká mouka",
+            "6 lžic vody",
+            "špetka soli",
+            "NÁPLŇ:",
+            "rozinky",
+            "2 jablka",
+            "citrón",
+            "mletá skořice",
+            "vanilkový cukr"
+        ],
+        "instructions": [
+            "Do osolené mouky zamícháme rukama máslo, vodu a vejce, v rukách prohněteme a dáme na 30 minut do lednice.",
+            "Poté nacpeme 3/4 těsta do formy, vyskládáme jablka, posypeme rozinkama, cukrem skořicí a pokapeme citrónem.",
+            "Ze zbytku těsta vytvoříme dlouhé proužky a křížem krážem dáme nahoru na náš výtvor.",
+            "Potřeme rozmíchaným vajíčkem.",
+            "Pečeme na 180°C cca 20-25 minut."
+        ],
+        "tips": [
+            "Nikdy nedělej se švestkama! Ověřeno."
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Jablkový koláč s drobenkou",
+        "bake": "sladké",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "No neupeč si ho! Kultovka",
+        "ingredients": [
+            "1 vejce",
+            "1 hrnek cukr krupice",
+            "1 vanilkový cukr",
+            "1 hrnek vody",
+            "1/2 hrnku oleje",
+            "2 hrnky polohrubé mouky",
+            "0,5 prášku do pečiva",
+            "NÁPLŇ:",
+            "rozinky",
+            "2 jablka",
+            "mletá skořice",
+            "POSYPKA:",
+            "1 hrnek polohrubá mouka",
+            "1/2 hrnku cukr moučka",
+            "60g másla nebo oleje"
+        ],
+        "instructions": [
+            "Vyšleháme těsto, a dáme péct na 180° na 20 minut.",
+            "Vytáhneme z trouby, dáme nahoru jablka, rozinky a zasypeme skořicí. Dáme zpět do trouby a pečeme dokud není těsto upečené."
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Banánové muffiny",
+        "bake": "sladké",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Lehké banánové muffiny.",
+        "ingredients": [
+            "1 vejce",
+            "2 banány",
+            "100g cukr krupice",
+            "1 vanilkový cukr",
+            "60ml vody",
+            "80ml oleje",
+            "185g polohrubé mouky",
+            "1 lžička kypřícího prášku",
+            "1 lžička sody",
+            "1/4 lžičky soli",
+            "50g hořké čokolády "
+        ],
+        "instructions": [
+            "Rozmačkáme banány, přidáme vejce a mixujeme. Postupně přidáváme olej, cukry, vodu, mouku, a zbytek.",
+            "Pečeme 25-30 min na 180°."
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Banánová bábovka",
+        "bake": "sladké",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Klasická bábovka, ale banánová.",
+        "ingredients": [
+            "3 bílky",
+            "3 žloutky",
+            "150g cukru krystal",
+            "200g tuku/oleje/másla",
+            "250ml vody",
+            "400g polohrubé mouky",
+            "2 lžíce kakaa",
+            "0,5 prášku do pečiva",
+            "1 lžička kypřícího prášku",
+            "3 banány "
+        ],
+        "instructions": [
+            "Uděláme si sníh, rozmačkáme banány, vše dáme dokupy, a nakonec přidáme jemně rukou sníh.",
+            "3/4 těsta nalijeme do vysypané formy, do zbytku přidáme kakao, rozmixujeme a dáme do formy.",
+            "Pečeme 40-50 min na 180°."
+        ]
+    },
+    {
+        "id": 65,
+        "name": "Kremrole",
+        "bake": "sladké",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Kremrole kremrole kremrole.",
+        "ingredients": [
+            "listové těsto",
+            "NÁPLŇ:",
+            "250g cukru krupice",
+            "2,5 bílku",
+            "100ml vody"
+        ],
+        "instructions": [
+            "Rozválíme listové těsto, nakrájíme na pruhy, potřeme vejcem a omotáme kolem trubiček.",
+            "Troubu předehřejeme na 180° a pečeme 15-20 min.",
+            "Uděláme si cukrový rozvar - 100g cukru a 250ml vody dáme na půl hodiny vařit dokud nevzniknou řetízky (uděláme si očko a foukneme).",
+            "Vezmeme 100g cukru a 2,5 bílku, vyšleháme do tuha a do toho pomalu vléváme horký cukrový rozvar.",
+            "Pěnu poté přes rukáv naplíme do trubiček."
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Hruško čokoládový dort",
+        "bake": "sladké",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Větší, dát do hlubokého plechu.",
+        "ingredients": [
+            "3 bílky ",
+            "3 žloutky",
+            "150g cukru",
+            "150g másla",
+            "125ml vody",
+            "rum",
+            "citrónová šťáva,",
+            "300g hladké mouky",
+            "špetka skořice",
+            "špetka muškátového oříšku",
+            "1 lžíce kakaa",
+            "půl sáčku prášku do pečiva",
+            "100g hořké čokolády na kousky",
+            "100g nastrouhaných vlašáků",
+            "1kg spíš tvrdých hrušek"
+        ],
+        "instructions": [
+            "Uděláme si sníh, pak vymixujeme zbytek surovin se sněhem.",
+            "Na plech dáme trochu těsta, do něj nakrájené hrušky, pak zase těsto a zase hrušky.",
+            "Troubu předehřejeme na 180° a pečeme 40-60 min."
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Maková bábovka",
+        "bake": "sladké",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Klasická bábovka, ale celá celičká maková.",
+        "ingredients": [
+            "2 vejce",
+            "1/4 hrnku cukr krupice",
+            "2 hrnky hladké mouky",
+            "1 kypřící prášek",
+            "1 hrnek vody",
+            "1 vanilkový cukr",
+            "1/2 hrnku oleje",
+            "1 hrnek nemletého máku",
+            "rozinky",
+            "ořechy",
+            "rum"
+        ],
+        "instructions": [
+            "Těsto smíchame dohromady.",
+            "Pečeme 30-40 min na 180°."
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Křehký ořechový koláč",
+        "bake": "sladké",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Rozplávající se v ústech ořechový koláč.",
+        "ingredients": [
+            "75g oleje/másla",
+            "180g hladké mouky",
+            "100g cukru krupice",
+            "1 žloutek",
+            "NÁPLŇ:",
+            "3 žloutky",
+            "1 vejce",
+            "150g cukru krupice",
+            "180g mletých vlašských ořechů",
+            "4 bílky"
+        ],
+        "instructions": [
+            "Formu vymažeme a vysypeme strouhankou.",
+            "Z těsta vypracujeme váleček, 2/3 dáme do mrazáku a zbylou 1/3 taky, ale tu tam necháme déle.",
+            "Uděláme si náplň, nejdříve sníh, pak smícháme zbytek surovin a sníh jemně vmícháme do hmoty.",
+            "2/3 těsta nakrájíme na kolečka a vyložíme formu, přidáme náplně a zbylou 1/3 těsta nastrouháme nahoru.",
+            "Pečeme 30-40 min na 180°."
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Koláčky",
+        "bake": "sladké",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Těsto na 27 středních koláčů.",
+        "ingredients": [
+            "1kg polohrubé mouky",
+            "200g cukr krystal/krupice",
+            "4 vejce",
+            "250g másla",
+            "10g soli",
+            "citronová kůra",
+            "1 hrnek mléka",
+            "NÁPLŇ MAKOVÁ:",
+            "150g mletého máku",
+            "250ml mléka",
+            "60g cukru krystal",
+            "40g rybízové marmelády",
+            "NÁPLŇ TVAROHOVÁ:",
+            "250g tvarohu (ne ten z vaničky)",
+            "1 vejce",
+            "rozinky",
+            "1,5 lžíce cukru",
+            "1 vanilkový cukr",
+            "NÁPLŇ OŘECHOVÁ:",
+            "200ml mléka",
+            "250g vlašských ořechů",
+            "50g piškotů",
+            "50g medu",
+            "50g cukru",
+            "3 lžíce rumu",
+            "1 bílek",
+            "NÁPLŇ POVIDLOVÁ:",
+            "povidla",
+            "rum",
+            "10g cukru krupice",
+            "citronová šťáva",
+            "KVÁSEK:",
+            "50g čerstvého droždí",
+            "1 lžička cukru",
+            "1 lžička hladké mouky",
+            "vlažné mléko",
+            "mletá skořice",
+            "citronová šťáva",
+            "POSYPKA:",
+            "1 hrnek polohrubá mouka",
+            "1/2 hrnku cukr moučka",
+            "60g másla nebo oleje"
+        ],
+        "instructions": [
+            "Připravíme si náplně: U makové povaříme mák, mléko a krupici asi 10minut, přidáme skořici a šťávu z citrónu. Když už máme hmotu ze sporáku, vmícháme marmeládu.",
+            "U Tvarohové dáme všechny suroviny dokupy a vymícháme.",
+            "U Ořechové dáme vařit mléko, které nalijeme na mleté ořechy, přidáme mleté piškoty a zbytek surovin a vymícháme.",
+            "U Povidlové dáme povidla vařit, přidáme rum, cukr a citronovou šťávu.",
+            "Jdeme postupně na těsto. Nejdříve se uděláme kvásek - Suroviny se odebírají z celkového množství surovin z finálního receptu.",
+            "Droždí rozmělníme lžičkou a pak přidáme lžičku cukru.",
+            "Znova rozetřeme a přidáme lžičku mouky a rozmícháme do kaše, do které přidáme trošku mléka z celkového objemu 1/4 hrnku.",
+            "Mícháme, dokud nejsou hrudky a postupně vléváme zbytek mléka.",
+            "Dáme kvasit do předehřáte trouby na 30° na 25 minut.",
+            "Přidáme k sobě mouku, cukr, vejce, máslo, sůl, citronovou kůru a zbytek mléka. Vyhněteme, přidáme hotový kvásek a necháme kynout, tak aby toho bylo jednou tolik.",
+            "Vytvarujeme koláče a ještě je necháme na plechu kynout.",
+            "Přidáme náplň a posypeme posypkou",
+            "Pečeme ASI 30 min na 180° do zlatova."
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Dýňový koláč se šlehačkou",
+        "bake": "sladké",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Podzimní mňamka.",
+        "ingredients": [
+            "2 vejce",
+            "70g cukru",
+            "120g másla",
+            "250g hladké mouky",
+            "1 lžička prášku do pečiva",
+            "NÁPLŇ:",
+            "500g dýně",
+            "Šálek vody",
+            "3 lžíce cukru",
+            "1 citronová šťáva",
+            "1 lžička rumu",
+            "4 lžíce solamylu nebo balíček želé",
+            "OZDOBA:",
+            "šlehačka"
+        ],
+        "instructions": [
+            "Vymícháme vajíčka s cukrem, pak uhněteme v ruce těsto s máslem, moukou a práškem do pečiva",
+            "Pečeme na 170°C asi 25-30 min a necháme vychladnout",
+            "Uděláme si náplň, uvaříme v hrnci dýni na kostičky se zbytkem surovin.",
+            "Vlažné vlejeme na koláč a dáme zthunout do lednice."
+        ],
+        "tips": [
+            "Podáváme ozdobené šlehačkou."
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Čokoládové cupcakes s karamelovou náplní",
+        "bake": "sladké",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "ČOKO mňamka.",
+        "ingredients": [
+            "50g holandské kakao",
+            "250ml horké vody",
+            "250ml podmáslí",
+            "200g cukru",
+            "2 vejce",
+            "120ml oleje",
+            "1 vanilkový cukr",
+            "500g hladké mouky",
+            "2 lžičky kypřícího prášku",
+            "1 lžička jedlé sody",
+            "1/2 lžičky soli",
+            "120ml šlehačky",
+            "NÁPLŇ:",
+            "karamel",
+            "OZDOBA:",
+            "šlehačka"
+        ],
+        "instructions": [
+            "Kakao rozpustíme v horké vodě a přidáme podmáslí, cukr a rozmícháme dokud se vše nespojí.",
+            "Přidáme vejce, olej a vanilkový cukr.",
+            "Zvlášť smícháme mouku, sodu, sůl a prášek do pečiva. Potom vmícháme do kakaové směsi a rozmícháme, aby zmizely žmolky.",
+            "Nakonec vmícháme šlehačku a nalijeme do formy na muffiny.",
+            "Pečeme cca 20 min na 160°.",
+            "Do muffinů po upečení vydlabeme důlky a necháme vychladnout.",
+            "Mezitím si připravíme karamel: v hrnci rozpustíme cukr, přilijeme smetanu a mícháme dokud nemá krásnou konzistenci.",
+            "Poté naplníme karamelem a vydlabaný vnitřek dáme zpět nahoru."
+        ],
+        "tips": [
+            "Můžeme podávat s trochou šlehačkou na vrcholku muffinu.",
+            "Lepší je použít menší formu."
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Zavařování hrušek",
+        "other": "zavařování",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Hruškový kompot z celých hrušek. Z hruba 4 kil hrušek vyšlo asi 5 velkých zavařených sklenic.",
+        "ingredients": [
+            "4kg hrušek",
+            "1l vody",
+            "4 lžíce cukr krupice",
+            "2 lžičky mleté skořice"
+        ],
+        "instructions": [
+            "Hrušky umyjeme, oloupeme a rozkrájíme na měsíčky.",
+            "Vodu s cukrem a skořicí přivedeme k varu (zkusíme jestli je dost sladké), potopíme do ní nakrájené hrušky a 5 minut povaříme.",
+            "Naskládáme do sklenic, zalijeme vodou z hrušek a dáme zavařit na 15 minut.",
+            "Vytáhneme, otočíme víčkem dolů a necháme vychladit."
+        ],
+        "tips": [
+            "Kdyby sklenice po otočení zasyčela, doutáhneme a znovu na 10 minut zavaříme."
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Kokosový koláč",
+        "bake": "sladké",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Jednoduchý kokosový koláč.",
+        "ingredients": [
+            "2 vejce",
+            "1 hrnek cukr moučka",
+            "1/2 hrnku oleje",
+            "1 hrnek vody",
+            "2 hrnky polohrubé mouky",
+            "1 prášek do pečiva",
+            "kokos",
+            "čtvrt hrnku cukr moučka",
+            "250ml šlehačky"
+        ],
+        "instructions": [
+            "Uděláme těsto posypeme kokosem s cukrem a pečeme na 180° 30-40 minut",
+            "Po vytáhnutí z trouby nalijeme na horký koláč šlehačku."
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Černá buchta s kokosem",
+        "bake": "sladké",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Tmavá kakaová buchta s kokosem.",
+        "ingredients": [
+            "2 vejce",
+            "200g cukr krystal/krupice",
+            "250ml vody",
+            "3 lžíce oleje ",
+            "100g rozpuštěného másla",
+            "300g polohrubá mouka",
+            "40g kakaa",
+            "1 prášek do pečiva",
+            "POLEVA:",
+            "100g másla",
+            "250g cukr moučka",
+            "3 lžíce horké vody",
+            "2 lžíce rumu ",
+            "2-3 lžíce kakaa",
+            "250ml šlehačky",
+            "POSYPKA:",
+            "kokos"
+        ],
+        "instructions": [
+            "Uděláme těsto a pečeme na 180° 30-40 minut",
+            "Ve vodní lázni si uděláme polevu.",
+            "Po vytažení z trouby nalijeme polevu na teplou buchtu a posypeme kokosem."
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Mrkvový dort",
+        "bake": "dort",
+        "images": [
+            "images/x.png"
+        ],
+        "description": "Mrkvový dort.",
+        "ingredients": [
+            "4 vejce",
+            "2 hrnky třtinového cukru",
+            "1 sáček vanilkového cukru",
+            "2 hrnky polohrubé mouky",
+            "2 lžičky jedlé sody ",
+            "2 lžičky prášku do pečiva",
+            "0,5 lžičky soli",
+            "2 lžičky skořice",
+            "1 a 1/4 hrnku oleje",
+            "3 hrnky nastrouhané mrkve",
+            "1 hrnek namletých na hrubo ořechů",
+            "POLEVA:",
+            "500g mascarpone",
+            "200ml šlehačka",
+            "125g měkké máslo",
+            "1 zakysaná smetana",
+            "2 lžíce medu"
+        ],
+        "instructions": [
+            "Uděláme těsto a pečeme na 160° cca 1h a 15 minut",
+            "Uděláme si polevu, dáme na upečený dort a dáme do lednice."
+        ]
+    }
+]

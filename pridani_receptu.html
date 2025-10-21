@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Naše kuchařka</title>
+        <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/modern-normalize@2.0.0/modern-normalize.min.css">
+        <link rel="stylesheet" href="style.css">
+        <script src="js/main.js" defer></script>
+        <script src="js/pridani_receptu.js" defer></script>
+
+    </head>
+
+    <body>
+        <header>
+            <div class="contact">
+
+                <a href="https://www.facebook.com/kucharkaprodceru" target="_blank" ><img src="images/fblogo.png" alt="facebook Kuchařky pro dceru" title="Hledej inspiraci"></a>
+                <a href="https://www.instagram.com/margot_fait_maison?igsh=MWNsaWxhcnJyOWdj" target="_blank"><img src="images/instalogo.png" alt="instagram" title="Hledej inspiraci"></a>
+                <a href="https://www.youtube.com/watch?v=8-lFpIRNe_g" target="_blank" ><img src="images/YTlogo.png" alt="youtube" title="Hledej inspiraci"></a>
+            </div>
+
+            <h1>VYMAZLENÁ KUCHAŘKA</h1>
+            <nav>
+                <ul>
+                    <li><a href="home.html">Domů</a></li>
+                    <li><a href="recepty.html">Recepty</a></li>
+                    <li><a href="pridani_receptu.html">Přidání receptů</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main class="book">
+            <section class="page left-page">
+                <h2 class="pridej">Přidej nový recept do naší kuchařky</h2>
+                <form action="https://formspree.io/f/xnnggbdp" method="POST" class="form">
+
+            
+                    <label for="nazev">Název receptu:
+                        <input type="text" id="nazev" name="nazev" maxlength="100" size="51" required>
+                    </label>
+                    <label for="suroviny">Suroviny:
+                        <textarea id="suroviny" name="suroviny" rows="8" cols="50" required></textarea>
+                    </label>
+                    <label for="postup">Postup:
+                        <textarea id="postup" name="postup" rows="20" cols="50" required></textarea>
+                    </label>
+                    <label for="postup">Info o receptu:
+                        <textarea id="info" name="info" rows="10" cols="50" placeholder="uveď pálivost, typ kuchyně a další info"></textarea>
+                    </label>
+                    <label for="odkaz">Zdroj:
+                        <input type="url" id="odkaz" name="odkaz" placeholder="vlož odkaz nebo pole přeskoč" size="51">
+                    </label>
+                    <input type="submit" value="Přidat recept" class="submit-button">
+                </form>
+            </section>
+
+            <section class="page right-page">
+
+            </section>
+
+        </main>
+        <footer>
+            <p>&copy; 2025 teri_pindakova_design</p>
+        </footer>
+    </body>
+
+</html>

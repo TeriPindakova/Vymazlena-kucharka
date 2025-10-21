@@ -1,0 +1,1106 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    overflow-x: hidden;
+    background-color: #f9f4e8;
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    min-height: 100vh;
+}
+
+header {
+    background-color: rgb(243, 178, 0);
+    text-align: center;
+    padding: 20px 0 50px 0;
+    font-size: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    background: linear-gradient(135deg, #fcc668, #fab938, #ffaa00);
+}
+
+header h1 {
+    margin: 0 auto;
+    padding: 50px 15px;
+    max-width: 100%;
+    text-shadow: 4px 4px 6px rgba(0, 0, 0, 0.3);
+    transition: transform 0.4s ease;
+    letter-spacing: 15px;
+    color: rgb(22, 22, 22);
+    font-weight: bold;
+    font-family: "Lucida Bright", Georgia, serif;
+}
+
+h1:hover {
+    transform: scale(1.1);
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.8);
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+
+}
+
+.contact img {
+    width: 60%;
+    max-width: 150px;
+    height: auto;
+}
+
+.contact img:hover {
+    transform: scale(1.7);
+}
+
+@media (max-width: 600px) {
+    .contact img {
+        width: 80%;
+        max-width: 120px;
+    }
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+    gap: 100px;
+    background-color: rgb(247, 209, 106);
+
+}
+
+nav li {
+    transition: color 0.3s ease;
+    letter-spacing: 8px;
+    font-weight: 900;
+}
+
+nav li:hover {
+    transition: transform 0.5s ease;
+    text-shadow: 4px 4px 6px rgba(2, 2, 2, 0.8);
+}
+
+nav li a {
+    text-decoration: none;
+    color: rgb(22, 22, 22);
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+    font-weight: 900;
+
+}
+
+footer {
+    background: linear-gradient(rgb(255, 196, 0), rgb(231, 141, 23));
+    text-align: center;
+    padding: 10px 0 10px 0;
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(22, 22, 22);
+    letter-spacing: 2px;
+    width: 100%;
+    margin-top: auto;
+    box-sizing: border-box;
+
+}
+
+
+
+/*@media (max-width: 768px) {
+
+    body,
+    html {
+        font-size: 16px;
+    }
+
+    nav ul {
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+
+    .recipe {
+        padding-right: 50px;
+        margin: 10px;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    header {
+        text-align: center;
+        padding: 15px;
+    }
+
+    .recipe p,
+    .recipe ul,
+    .recipe ol {
+        max-width: 100%;
+        margin: 15px 0;
+        padding-left: 5px;
+
+    }
+
+    .recipe img {
+        max-width: 100%;
+        margin: 20px 0 0 0;
+        border-radius: 5px;
+        border: 5px solid rgba(233, 229, 222, 0.39);
+    }
+
+    .tips {
+        padding: 15px;
+        margin: 15px;
+    }
+
+    .tips p {
+        margin-left: 10px;
+    }
+
+    .img-bottom {
+        margin: 20px 0;
+    }
+
+    .img-bottom img {
+        max-width: 100%;
+    }
+
+    .h3-heading {
+        margin-left: 15px;
+    }
+
+    h2 {
+        margin-left: 15px;
+    }
+
+    .button {
+        margin-left: 15px;
+        margin-bottom: 10px;
+    }
+
+    .recipe-name,
+    .recipe-name p {
+        margin-left: 15px;
+    }
+}
+*/
+
+
+
+/*------------------PŘIDÁNÍ RECEPTU--------------*/
+.pridej {
+    color: rgb(46, 46, 46);
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-align: center;
+    font-weight: bold;
+    margin: 50px 0;
+    font-size: 2rem;
+}
+
+/* KONTEJNER KNIHY */
+.book {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    gap: 20px;
+    padding: 20px;
+    background-color: #f7f3e8;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 60px solid rgba(36, 36, 36, 0.9);
+    border-image: url('images/textura2.jpg') 40 round;
+
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    position: relative;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    box-shadow: inset -10px 0 20px rgba(0, 0, 0, 0.1), inset 10px 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    margin: 50px 0;
+}
+
+
+/* ČÁRA UPROSTŘED KNIHY */
+.book::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    /* šířka stínu uprostřed */
+    height: 100%;
+    background: linear-gradient(to right,
+            rgba(0, 0, 0, 0),
+            rgba(0, 0, 0, 0.3) 50%,
+            rgba(0, 0, 0, 0));
+    pointer-events: none;
+}
+
+.page {
+    background-color: #fff7eb;
+    padding: 40px 20px;
+    /* nahoře/dole víc, uvnitř méně */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    min-width: 280px;
+    border-radius: 8px;
+    position: relative;
+    z-index: 1;
+}
+
+/* Levá a pravá stránka se posunou blíž k hraně */
+.left-page {
+    margin-left: -10px;
+    width: 48%;
+}
+
+.right-page {
+    margin-right: -10px;
+    width: 48%;
+}
+
+/* Stíny u okrajů */
+.left-page::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -10px;
+    width: 10px;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+    border-radius: 8px 0 0 8px;
+}
+
+.right-page::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: -10px;
+    width: 10px;
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+    border-radius: 0 8px 8px 0;
+}
+
+/*PRAVÁ STRÁNKA - OBRÁZEK*/
+.right-page {
+    background-image: url('images/book-page.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+/* LEVÁ STRÁNKA - FORMULÁŘ */
+.left-page .form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+label {
+    gap: 20px;
+    display: inline-flex;
+}
+
+.left-page label {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-self: center;
+}
+
+.submit-button {
+    background-color: rgb(252, 197, 46);
+    border: none;
+    color: rgb(29, 29, 29);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+
+/*------HOME----*/
+.question h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 50px 20px 20px 20px;
+    text-transform: uppercase;
+    font-family: 'Gill Sans bold', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "Lucida Bright", Georgia, serif;
+    letter-spacing: 6px;
+
+}
+
+.question p {
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+    letter-spacing: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "Lucida Bright", Georgia, serif;
+    margin: 50px 20px 20px 20px;
+    text-transform: uppercase;
+}
+
+.home {
+    background-color: #f9f4e8;
+    margin: 50px 0;
+}
+
+.home-filters {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin-bottom: 50px;
+
+}
+
+.filters {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    margin-top: 30px;
+
+}
+
+.custom-select {
+    position: relative;
+    width: 180px;
+    font-family: 'Gill Sans', Calibri, sans-serif;
+    user-select: none;
+}
+
+.custom-select .selected {
+    background-color: #ffeebe;
+    border: 1px solid #ffde70;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+.custom-select .selected:hover {
+    background-color: #ffd365;
+}
+
+.custom-select .options {
+    display: none;
+    position: absolute;
+    top: 105%;
+    left: 0;
+    width: 100%;
+    background-color: #fff7e0;
+    border: 1px solid #ffeebe;
+    border-radius: 10px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    z-index: 10;
+}
+
+.custom-select .options li {
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: background 0.2s ease;
+    cursor: pointer;
+}
+
+.custom-select .options li:hover {
+    background-color: #ffce47;
+}
+
+.custom-select.open .options {
+    display: block;
+}
+
+
+
+/* ---------- Pás fotek ---------- */
+.photos-strip {
+    display: flex;
+    overflow-x: auto;
+    background-color: #f9f4e8;
+    gap: 1px;
+    padding: 50px 0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+
+}
+
+.photos-strip img {
+    height: 350px;
+    object-fit: cover;
+    border-radius: 2px;
+    transition: transform 0.5s ease;
+    cursor: crosshair;
+
+}
+
+/* scrollbar
+.photos-strip::-webkit-scrollbar {
+  height: 8px; 
+}
+.photos-strip::-webkit-scrollbar-track {
+  background: #f9f4e8;
+}
+.photos-strip::-webkit-scrollbar-thumb {
+  background: #c9b99c;
+  border-radius: 10px;
+}
+.photos-strip::-webkit-scrollbar-thumb:hover {
+  background: #a6916e;
+}*/
+
+
+/*bez srollbaru + js křižek*/
+.photos-strip::-webkit-scrollbar {
+    display: none;
+}
+
+.photos-wrapper {
+    position: relative;
+}
+
+.arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    padding: 10px;
+    opacity: 0.6;
+    transition: opacity 0.3s;
+}
+
+.arrow:hover {
+    opacity: 1;
+}
+
+.arrow.left {
+    left: 10px;
+}
+
+.arrow.right {
+    right: 10px;
+}
+
+
+/*---vyhledávač---*/
+
+.global-search {
+    display: block;
+    width: 40%;
+    margin: 3.5rem auto;
+    padding: 0.8rem 1rem;
+    font-size: 1rem;
+    border: 2px solid #ffedb2;
+    border-radius: 10px;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.global-search:focus {
+    border-color: #ff8800;
+}
+
+/* KONTEJNER KNIHY – RECEPTY */
+.recipe-book {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    padding: 10px;
+    background-color: #f7f3e8;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 60px solid rgba(36, 36, 36, 0.9);
+    border-image: url('images/textura2.jpg') 40 round;
+    font-weight: bold;
+    position: relative;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    box-shadow: inset -10px 0 20px rgba(0, 0, 0, 0.1), inset 10px 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin: 50px 0;
+}
+
+.recipe-book h2 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.recipe-book h3 {
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: rgb(238, 160, 16);
+}
+
+.recipe-book p {
+    font-size: 0, 8rem;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.recipe-book::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 100%;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.3) 50%, rgba(0, 0, 0, 0));
+    pointer-events: none;
+}
+
+.recipe-book .page {
+    background-color: #fff7eb;
+    padding: 40px 110px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    min-width: 280px;
+    border-radius: 8px;
+    position: relative;
+    z-index: 1;
+}
+
+.recipe-book .right-page {
+    margin-right: -10px;
+    width: 48%;
+    height: auto;
+
+}
+
+.recipe-book .right-page img {
+    width: 80%;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+}
+
+.recipe-book .left-page::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -10px;
+    width: 10px;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+    border-radius: 8px 0 0 8px;
+}
+
+.recipe-book .right-page::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: -10px;
+    width: 10px;
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+    border-radius: 0 8px 8px 0;
+}
+
+.recipe-book .left-page {
+    margin-left: -10px;
+    width: 48%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.recipe-book .left-page ul,
+.recipe-book .left-page ol {
+    padding-left: 0;
+    /* odsazení seznamu od levého okraje */
+    margin: 10px 0;
+    list-style: none;
+}
+
+.recipe-book .left-page li {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 5px;
+    align-items: start;
+
+}
+
+
+
+.recipe-book .left-page label {
+    display: grid;
+    /* používáme grid – řeší zarovnání i zalomení */
+    grid-template-columns: auto 1fr;
+    /* 2 sloupce: checkbox + text */
+    align-items: start;
+    column-gap: 12px;
+    line-height: 1.4;
+    font-size: 16px;
+    color: #333;
+
+}
+
+.recipe-book .left-page input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    margin-top: 3px;
+    cursor: pointer;
+}
+
+#recipe-list p {
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #444;
+    text-transform: uppercase;
+}
+
+/*--------TAGY V RECEPTECH---------*/
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 1rem;
+}
+
+.tag {
+    background-color: #f7f7f7;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 5px 12px;
+    font-size: 0.9rem;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.tag:hover {
+    background-color: #ffc96d;
+    border-color: #000000;
+}
+
+
+/*------Navigační šipky------ */
+.recipe-book {
+    position: relative;
+    overflow: visible;
+}
+
+.nav-container {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+    pointer-events: none;
+}
+
+.nav-btn {
+    pointer-events: all;
+    background-color: rgba(255, 255, 255, 0.95);
+    border: 2px solid #ddd;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #333;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 11;
+}
+
+.nav-btn:hover {
+    background-color: #ffdda9;
+    transform: scale(1.1);
+}
+
+.prev-btn {
+    margin-left: 20px;
+}
+
+.next-btn {
+    margin-right: 20px;
+}
+
+
+.toggle-filters {
+    display: none;
+}
+
+.inner-filters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    width: 100%;
+}
+
+/*------------------RESPONZIVNÍ DESIGN------------------*/
+@media (max-width: 768px) {
+
+
+
+    html,
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        overflow-x: hidden;
+        background-color: #f9f4e8;
+        width: 100%;
+        max-width: 100%;
+        min-height: 100dvh;
+        height: auto;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+    }
+
+    header {
+        padding: 15px 10px 30px 10px;
+    }
+
+    header h1 {
+        font-size: 1.6rem;
+        letter-spacing: 8px;
+        padding: 30px 10px;
+        margin: 1px;
+        line-height: 1.5;
+    }
+
+    nav ul {
+        flex-direction: column;
+        gap: 7px;
+        padding: 10px;
+    }
+
+    nav li {
+        letter-spacing: 3px;
+        font-size: 12px;
+    }
+
+    .contact img {
+        width: 50%;
+        max-width: 100px;
+    }
+
+    .question h2 {
+        margin: 50px 20px -20px 20px;
+        font-size: 1rem;
+    }
+
+    .question p {
+        margin: 50px 20px -20px 20px;
+        font-size: 0.8rem;
+    }
+
+    .pridej {
+        font-size: 1.5rem;
+        margin: 30px 10px;
+    }
+
+    /* Book container & pages */
+    .book,
+    .recipe-book {
+        flex-direction: column;
+        padding: 15px;
+        border-width: 20px;
+        text-align: center;
+
+
+    }
+
+    .recipe-book h2 {
+        font-size: 1.98rem;
+        background: linear-gradient(90deg, #ff9900, #ffcc00);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        text-align: center;
+        margin: 0 auto 15px auto;
+        display: block;
+
+    }
+
+
+    .recipe-book .left-page h3,
+    .recipe-book .right-page h3 {
+        text-align: center;
+        font-size: 1.2rem;
+        width: 100%;
+    }
+
+    #recipe-list p {
+        color: rgb(14, 14, 14);
+        font-size: 0.8rem;
+        text-align: center;
+    }
+
+    .book::before,
+    .recipe-book::before {
+        width: 40px;
+    }
+
+    .page,
+    .recipe-book .page {
+
+        width: 100%;
+        margin: 10px 0;
+        min-width: auto;
+    }
+
+    .left-page,
+    .right-page {
+        width: 100%;
+        margin: 0;
+        
+    }
+
+    .right-page img {
+        width: 100%;
+        height: auto;
+        object-fit: contain;
+    }
+
+
+    .photos-strip img,
+    .recipe-book .right-page img {
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+
+    .photos-strip img:hover,
+    .recipe-book .right-page img:hover {
+        transform: scale(1.05);
+    }
+
+    .book .left-page,
+    .recipe-book .left-page {
+
+        width: 100%;
+        padding: 10px 20px;
+        box-sizing: border-box;
+    }
+
+    .book .left-page .form {
+        width: 100%;
+        padding: 0;
+        gap: 10px;
+    }
+
+
+    input,
+    textarea,
+    select {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    .left-page .form {
+        gap: 10px;
+    }
+
+
+
+    .submit-button {
+        padding: 8px 15px;
+        font-size: 14px;
+    }
+
+    /* Photos strip */
+    .photos-strip {
+        padding: 20px 0;
+    }
+
+    .photos-strip img {
+        height: 200px;
+    }
+
+    /* Global search */
+    .global-search {
+        width: 90%;
+        font-size: 0.9rem;
+        margin: 2rem auto;
+        padding: 0.6rem 0.8rem;
+    }
+
+    .filters {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 0;
+        gap: 5px;
+    }
+
+    .home-filters {
+        margin: 15px 0 3px 0;
+
+    }
+
+    .selected {
+        font-size: 0.8rem;
+        font-weight: bold;
+
+    }
+
+    .custom-select {
+        width: 90%;
+    }
+
+
+    .toggle-filters {
+        display: inline-block;
+        background-color: #ffd036;
+        background: linear-gradient(135deg, #fcc668, #fab938, #ffaa00);
+        border: 1px solid #fcbc0e;
+        border-radius: 6px;
+        padding: 12px 15px;
+        font-size: 0.7rem;
+        text-transform: uppercase;
+        font-weight: bold;
+        cursor: pointer;
+        width: 90%;
+
+    }
+
+    .inner-filters {
+        display: none;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 5px;
+        width: 100%;
+    }
+
+    .inner-filters.active {
+        display: flex;
+    }
+
+    .recipe-book .left-page ul,
+    .recipe-book .left-page ol {
+        list-style-position: inside;
+        padding-left: 20px;
+        text-align: center;
+    }
+
+    label {
+        width: 100%;
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .recipe-book .left-page li label {
+
+        text-align: left;
+        font-size: 0.8rem;
+        width: 100%;
+    }
+
+    .left-page li {
+        text-align: left;
+        width: 100%;
+    }
+
+    .recipe-book .left-page li {
+        gap: 0;
+        font-size: 14px;
+        text-align: left;
+    }
+
+    .tags {
+        justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 5px;
+        margin-bottom: 1rem;
+
+    }
+
+    .tag {
+        font-size: 0.8rem;
+        padding: 4px 8px;
+        justify-content: center;
+    }
+
+    .tag:hover {
+        color: rgb(255, 189, 46);
+    }
+
+    /* Navigation buttons */
+    .nav-btn {
+        width: 40px;
+        height: 40px;
+        font-size: 1.2rem;
+    }
+
+    .prev-btn {
+        margin-left: 10px;
+    }
+
+    .next-btn {
+        margin-right: 10px;
+    }
+
+    .nav-btn {
+        display: none;
+
+    }
+
+    .recipe-book .right-page {
+        min-height: 250px;
+        max-height: 350px;
+        margin: 10px auto;
+        background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+        cursor: pointer;
+    }
+
+
+    .book .right-page {
+        display: none;
+    }
+
+    .recipe-book.no-line::before {
+        display: none !important;
+    }
+
+    .book::before {
+        display: none;
+    }
+
+    .photos-wrapper .arrow {
+        display: none;
+    }
+
+    footer {
+        font-size: 0.5rem;
+    }
+
+}
