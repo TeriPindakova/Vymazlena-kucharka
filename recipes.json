@@ -279,7 +279,6 @@
             "Skládáme piškot, na něj krém a do něj čerstvé pomeranče. Můžeme i dovnitř přidat nastrouhanou hořkou čokoládu. Opakujeme podle toho, kolik máme vrstev. Úplně nahoru dáme jen mascarpone - tenkou vrstvu.",
             "V horké lázni si rozpustíme hořkou čokoládu a políváme dort ze všech stran. Nahoru můžeme ještě pro ozdobu dodat kousky hořké čokolády a lupínky mandlí.",
             "Dáme do lednice chladit."
-            
         ],
         "tips": [
             "Díky univerzálnímu krému jde kombinovat různé barvy piškotu a různé ovoce."
@@ -2473,6 +2472,49 @@
         "instructions": [
             "Uděláme těsto a pečeme na 160° cca 1h a 15 minut",
             "Uděláme si polevu, dáme na upečený dort a dáme do lednice."
+        ]
+    },
+   {
+        "id": 75,
+        "name": "Kmínový chleba",
+        "bake": "pečivo",
+        "images": [
+            "images/.............png"
+        ],
+        "description": "Kmínový chleba s křupavou kůrkou.",
+        "ingredients": [
+            "400 g hladké pšeničné mouky",
+            "100 g hladké žitné mouky",
+            "315 ml vlažné vody",
+            "1,5 rovné lžičky soli",
+            "1 lžíce kmínu",
+            "0,5 kostky droždí (21 g)",
+            "1 lžíce oleje/sádla",
+            "0,5 lžičky cukru",
+            "voda se solí na postříkání",
+            "kmín na posypání"
+        ],
+        "instructions": [
+            "Do mísy prosejeme přes síto 400 g hladké pšeničné mouky. Do kelímku odměříme 315 ml vlažné vody. Troubu předehřejeme na 30°C.",
+            "V misce lžičkou rozmačkáme droždí s polovinou lžičky cukru do tekuté konzistence. Z mísy odebereme půl lžíce mouky a zamícháme do vzniklé směsi.",
+            "Do misky přidáme polovinu vlažné vody a rozmícháme, až zmizí zbytky droždí s moukou. Vypneme troubu a poté dáme do trouby na 15 minut vzkypět.",
+            "Do mísy s moukou prosejeme 100 g hladké žitné mouky, 1,5 lžičky soli a lžíci kmínu. Promícháme metličkou, aby se směs promíchala.",
+            "Po 10 minutách kypění droždí v troubě přidáme směs do mísy s moukou, přidáme lžíci oleje a vodu z kelímku přilijeme do misky po droždí, lžící smícháme zbytky droždí s vodou a celé přidáme do mísy s moukou. Troubu opět předehřejeme na 30°C.",
+            "V míse hněteme těsto 10 minut, až se téměř přestane lepit na stěny a má hladký povrch.",
+            "Těsto vyndáme z mísy, mísu vymažeme trochou oleje, těsto uhněteme rukama do koule a dáme do mísy. Vypneme troubu a těsto dáme v přikryté míse (pokličkou nebo potravinářskou fólií) kynout do trouby na 25 minut.",
+            "Vykynuté těsto vyndáme z trouby, pracovní plochu si podsypeme trochou hladké pšeničné mouky, těsto vyklopíme z mísy a rukama překládáním uhněteme bochník tak, aby neměl na povrchu žádné švy ani trhliny.",
+            "Bochník dáme do moukou vysypané ošatky a přikryjeme utěrkou a necháme asi 20 minut kynout. Zároveň nastavíme troubu na horní a spodní ohřev (bez horkovzduchu) na 250 °C a na spodní úroveň trouby dáme rošt a pizza kámen.",
+            "Po dosažení nastavené teploty a vykynutí chleba dáme na dno trouby malý plech a dáme vařit asi půllitr vody do konvice.",
+            "Asi do poloviny výšky plechu nalijeme vroucí vodu z konvice.",
+            "Připravíme si lopatku na pizzu a lehce ji posypeme moukou, poté na ni vyklopíme chléb z ošatky a ostrým nožem namokřeným vodou do něj uděláme několik zářezů. Chléb postříkáme osolenou vodou a posypeme kmínem.",
+            "Chléb přeneseme na pizza kámen v troubě a pečeme 20 minut na 250°C.",
+            "Po 20 minutách vyndáme plech s vodou a chléb postříkáme osolenou vodou. Teplotu trouby snížíme na 200 °C a pečeme dalších 20 minut.",
+            "Po dalších 20 minutách chléb opatrně podebereme lopatkou a otočíme ho o 180°. Poté opět postříkáme osolenou vodou, teplotu trouby snížíme na 180 °C a pečeme posledních 20 minut.",
+            "Po 20 minutách chléb prohlédneme, zda je dostatečně propečený. Poté upečený chléb přeneseme lopatkou na stůl, aby vychladl. Hned ho trochu postříkáme osolenou vodou, aby nepopraskal.",
+            "Chléb zatím nenakrajujeme, necháme ho nejprve úplně vychladnout, poté uklidíme do sáčku."
+        ],
+        "tips": [
+            "Nejlepší je čerstvý s máslem a solí."
         ]
     }
 ]
