@@ -20,7 +20,7 @@ const relatedFilters = {
 };
 
 // === Hlavní logika ===
-fetch("recipes.json")
+fetch("recipes.json?nocache=" + Date.now(), { cache: "no-store" })
   .then(response => response.json())
   .then(recipes => {
     const main = document.querySelector("main");
