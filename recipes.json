@@ -536,7 +536,7 @@
         "cuisine": "mexická",
         "spicy": "shoř",
         "images": [
-            "images/.............png"
+            "images/fazole.jpg"
         ],
         "description": "Mexické fazole co vůbec nepálí! (dělám si srandu)",
         "ingredients": [
@@ -705,10 +705,8 @@
             "1 avokádo",
             "1 rajče",
             "citrón nebo limetka",
-            "1 stroužek česneku",
             "jalapeňos",
             "1/4 červené cibule",
-            "olivový olej",
             "1,2 lžičky soli",
             "1/4 měděné lžičky mletého koriandru",
             "1/4 měděné lžičky mletého římského kmínu"
