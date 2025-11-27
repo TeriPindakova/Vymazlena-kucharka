@@ -98,5 +98,41 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
   }
+
+ // --- WAKE LOCK ---
+  let wakeLock = null;
+
+  async function enableWakeLock() {
+    try {
+      wakeLock = await navigator.wakeLock.request("screen");
+      console.log("Wake Lock aktivní");
+
+      const btn = document.getElementById("wake-btn");
+      if (btn) btn.classList.add("active");
+
+      wakeLock.addEventListener("release", () => {
+        console.log("WakeLock byl uvolněn — obnovuji");
+        enableWakeLock();
+      });
+
+    } catch (err) {
+      console.warn("Nepodařilo se zapnout WakeLock:", err);
+    }
+  }
+
+  const btn = document.getElementById("wake-btn");
+  if (btn) {
+    btn.addEventListener("click", () => {
+      if (!wakeLock) enableWakeLock();
+    });
+  }
+
+  // --- Visibility change ---
+  document.addEventListener("visibilitychange", () => {
+    if (wakeLock && document.visibilityState === "visible") {
+      enableWakeLock();
+    }
+  });
 });
+
 

@@ -44,7 +44,7 @@
     },
     {
         "id": 2,
-        "name": "Hovězí burger mňangosam",
+        "name": "Letní hovězí burger mňangosam",
         "meat": "hovězí",
         "side": "brambory",
         "cuisine": "americká",
@@ -52,9 +52,9 @@
         "images": [
             "images/6.jpg"
         ],
-        "description": "Hovězí hamburger s mangem a chalepeňos s hranolkami",
+        "description": "Hovězí burger s mangem a chalepeňos s hranolkami",
         "ingredients": [
-            "500g mleté hovězí",
+            "240g mleté hovězí",
             "1 malá červená cibule",
             "salát",
             "12ks jalapeňos",
@@ -71,8 +71,8 @@
             "Připravíme a nakrájíme si přísady do burgeru - mango, jalapeňos, salát, červená cibule, chedar a osmažená slanina. ",
             "Rozkrojíme si bulky a potřeme z obou stran máslem",
             "Maso rozdělíme na 2 části a uděláme z něj placky.",
-            "Začneme dělat maso na pánvi s tukem. Z každé strany 3-5 minut podle tloušťky placky. Před koncem přidáme plátek chedaru na maso, nalijeme trochu vody do pánve a přikryjeme pokličkou dokud se sýr nezačne roztékat.",
-            "Na druhé pánvi si osmažíme bulky ze máslové strany.",
+            "Začneme dělat maso na pánvi s tukem. Z každé strany 3-5 minut podle tloušťky placky. Jakmile maso otočím, posolím ho a popepřím. Před koncem přidáme plátek chedaru na maso, nalijeme trochu vody do pánve a přikryjeme pokličkou dokud se sýr nezačne roztékat.",
+            "Na druhé pánvi si osmažíme bulky z máslové strany.",
             "Vše připravené složíme podle tohoto pořadí odspodu:"
         ],
         "tips": [
@@ -2520,6 +2520,53 @@
         ],
         "tips": [
             "Nejlepší je čerstvý s máslem a solí."
+        ]
+    },
+
+    {"id": 76,
+        "name": "Zimní hovězí burger Kwaki",
+        "meat": "hovězí",
+        "side": "brambory",
+        "cuisine": "americká",
+        "spicy": "pikantní",
+        "images": [
+            "images/kwaki.jpg",
+            "images/kaki.jpg"
+        ],
+        "description": "Hovězí burger s kaki a jalepeňózou. Na 2 porce.",
+        "ingredients": [
+            "polníček",
+            "kečup",
+            "4 plátky slaniny",
+            "jalapeňóza",
+            "4 plátky rajčete",
+            "2 plátky kaki",
+            "sůl a pepř",
+            "chedar",
+            "čatný z kaki",
+            "2 domácí bulky",
+            "240g hovězího mletého masa"
+        ],
+        "instructions": [
+            "Připravíme jalapeňózu. Hodně osušíme hrst jalapeňos. Do nádoby pro ponorný mixér dáme 2 lžíce majonézy, lžičku zakysané smetany a lžičku chilli vloček, sůl a pepř a přidáme jalapeňos. Mixujeme dokud nemáme hladkou omáčku.",
+            "Připravíme si čatný. Nakrájíme si půlku kaki na malé kostičky, 1 lžičku cukru, kousek skořice a 1 hřebíček a trochu javorového sirupu. V rendlíku uvaříme z cukru a vody karamel. Přisypeme kaki nakrájené na malé kostičky, přilijeme vodu, přidáme koření a vaříme na 4. stupeň pod pokličkou do změknutí. Svaříme vodu do sirupové konzistence.",
+            "Nachystáme si zbylé přísady do burgeru - plátek kaki a rajčat, polníček, chedar a osmažená slanina. ",
+            "Rozkrojíme si bulky a potřeme z obou stran máslem",
+            "Maso rozdělíme na 2 části a uděláme z něj placky.",
+            "Začneme dělat maso na pánvi s tukem. Z každé strany 3-5 minut podle tloušťky placky. Jakmile maso otočím, posolím ho a popepřím. Před koncem přidáme plátek slaniny a na něj plátek chedaru na maso, nalijeme trochu vody do pánve a přikryjeme pokličkou dokud se sýr nezačne roztékat.",
+            "Na druhé pánvi si osmažíme bulky z máslové strany.",
+            "Vše připravené složíme podle tohoto pořadí odspodu:"
+        ],
+        "tips": [
+            "1. bulka.",
+            "2. kečup",
+            "3. polníček",
+            "4. rajče",
+            "5. kaki čatný",
+            "6. maso se slaninou a chedarem",
+            "7. kaki",
+            "8. jalapeňóza",
+            "9. bulka"
         ]
     }
 ]
