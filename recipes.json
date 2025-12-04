@@ -1876,18 +1876,19 @@
         "name": "Vaječný koňak",
         "other": "nápoje",
         "images": [
-            "images/x.jpg"
+            "images/konak.jpg"
         ],
         "description": "Starý recept od babičky",
         "ingredients": [
-            "",
-            "4 žloutky",
-            "50g cukr krupice",
-            "0,5l teplého mléka",
-            "0,5l rumu"
+            "plechovka salka",
+            "6 žloutků",
+            "200g cukr krupice",
+            "50g cukr krupice s vanilkou",
+            "0,7l teplého mléka",
+            "0,7l rumu"
         ],
         "instructions": [
-            "Cukr se žloutky vyšleháme, přidáme mléko a rum, přelijeme do lahve a dáme chladit do lednice."
+            "Cukr se žloutky vyšleháme dokud hmota nezesvětlá a nezhoustne, přidáme převařené mléko a rum, přidáme salko, promícháme a přelijeme do lahve a dáme chladit do lednice."
         ],
         "tips": [
             "Klidně přidej více rumu."
