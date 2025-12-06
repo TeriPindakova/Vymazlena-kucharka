@@ -1442,7 +1442,7 @@
             "1/4 rumu (i víc)",
             "1 velké piškoty",
             "1 vanilkový cukr",
-            "Ořechy",
+            "ořechy",
             "rozinky",
             "kandované ovoce",
             "1 sáček kokosu"
@@ -1587,9 +1587,10 @@
             "140g másla",
             "70g cukru krupice/krystal",
             "70g nastrouhaných ořechů",
-            "1 vejce",
-            "+170g hladké mouky",
-            "citronová kůra"
+            "170g hladké mouky",
+            "citronová kůra",
+            "vanilkový cukr na obalení"
+
         ],
         "instructions": [
             "Dohromady vypracujeme těsto a necháme odpočinout v lednici.",
@@ -1611,7 +1612,6 @@
             "250g cukru krupice/krystal",
             "300g hladké mouky",
             "1 vanilkový cukr",
-            "170g hladké mouky",
             "kakao",
             "citronová kůra"
         ],
@@ -1734,7 +1734,8 @@
             "Poleva: Vyšleháme bílek, přidáme prosetý cukr a podle hustoty přidáme citronovou šťávu, tak aby poleva nebyla ani hustá ani tekutá."
         ],
         "tips": [
-            "Když přidáš potravinářské barvivo do polevy, budeš mít perníčky i barevné."
+            "Když přidáš potravinářské barvivo do polevy, budeš mít perníčky i barevné.",
+            "Dělat poloviční dávku."
         ]
     },
     {
